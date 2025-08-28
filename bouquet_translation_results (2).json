@@ -1,0 +1,1002 @@
+[
+  {
+    "sentence_id": 1,
+    "original_aguaruna": "<A:> Atumkaitjum nuwa aidau, ¿wakegagmek ataktu juju semanatin nuwanuwak ijunjami tamash?",
+    "spanish_translation": "Señoras, ¿quieren que nos volvamos a reunir esta semana?"
+  },
+  {
+    "sentence_id": 2,
+    "original_aguaruna": "Nantaki juakme waitijin betek nii kanamunum, nui wajas wajig ati tusa diyawai, makichik papi wayaun.",
+    "spanish_translation": "Al levantarse, perforó la puerta justo en su cama; parado allí, considera qué será, al ver un papel que entra."
+  },
+  {
+    "sentence_id": 3,
+    "original_aguaruna": "Waamak etsegbau aents ujaaku",
+    "spanish_translation": "La gente contó la noticia rápidamente."
+  },
+  {
+    "sentence_id": 4,
+    "original_aguaruna": "<B:> Papi augku wetanmek wechattame juu tsawan minitta juwik, senchi uwajam kanag.",
+    "spanish_translation": "Cuando te enganches con la lectura del libro, no irás a ninguna parte este día, dormirás muy profundamente."
+  },
+  {
+    "sentence_id": 5,
+    "original_aguaruna": "Dui wekaesan dekatkau jegamjai Hyde Park, nui nagkaemaki wemajai a Big Ben, atsanuk nagkaikimjai Palacio de Buckingham.",
+    "spanish_translation": "Primero paseé por Hyde Park, después fui a ver el Big Ben y también el Palacio de Buckingham."
+  },
+  {
+    "sentence_id": 6,
+    "original_aguaruna": "kasa aidau tupikakiaju anuntai mercedes tutainum bukuseanum ejapen wetanum.",
+    "spanish_translation": "Los ladrones huyeron a toda velocidad en un Mercedes negro por el medio del camino."
+  },
+  {
+    "sentence_id": 7,
+    "original_aguaruna": "Unuinaimauwai jega pujusti tusa nuwigtuush yupichu kuitamainai.",
+    "spanish_translation": "La enseñanza es que para poder vivir en una casa, también hay que cuidarla y mantenerla sin complicaciones."
+  },
+  {
+    "sentence_id": 8,
+    "original_aguaruna": "- Atsa, dakitajai wajuk diigtame nuna.",
+    "spanish_translation": "No, no me gusta la manera en que lo ves."
+  },
+  {
+    "sentence_id": 9,
+    "original_aguaruna": "Tikish tsawantai dekapsata tikish yutai, apajui wakegakuig wakejuktatme.",
+    "spanish_translation": "Otro día prueba otra comida, si Dios quiere, te gustará."
+  },
+  {
+    "sentence_id": 10,
+    "original_aguaruna": "...¡Wait aneasam, ayugtuawaipa!",
+    "spanish_translation": "...¡Por favor, déjame en paz!"
+  },
+  {
+    "sentence_id": 11,
+    "original_aguaruna": "Kuitamkami aenst pegkeg aina nunu.",
+    "spanish_translation": "Aquellas personas que son bien cuidadas son buenas."
+  },
+  {
+    "sentence_id": 12,
+    "original_aguaruna": "See kuashat Tita tajame, ashi jujuu tsawantai tsentsakum jinkiutigmin.",
+    "spanish_translation": "Muchas gracias, Tito, por tu apoyo durante todos estos días para que podamos progresar."
+  },
+  {
+    "sentence_id": 13,
+    "original_aguaruna": "Wekaetainum shiig suwe wajas amae.",
+    "spanish_translation": "En el camino estaba muy oscuro."
+  },
+  {
+    "sentence_id": 14,
+    "original_aguaruna": "Takajai kuntinu iyash kuitamku takatai aina nunak kuntin aina nuna ampin mamikjamua nunak (Iwainakchattajai waji ampikita nunak, dekas kuntinu ampin iniasta).",
+    "spanish_translation": "Me dedico a preparar los remedios especiales de origen animal, que sirven para el cuidado del cuerpo. (No revelaré de qué remedio se trata; deben preguntar por el auténtico remedio de animal)."
+  },
+  {
+    "sentence_id": 15,
+    "original_aguaruna": "Egiptok tuke ah wajakui nuwigtush tuke nigki atinai nugkanchijin nagkatkamun dukujig.",
+    "spanish_translation": "El egipcio siempre fue así, y además su madre se quedará para siempre sola en los confines de su propia tierra."
+  },
+  {
+    "sentence_id": 16,
+    "original_aguaruna": "Wika anentaimjai patasa yutai puju shiig juakdaiwai ekemtai shuwiknujai, tuja makimakichik waketaiyai.",
+    "spanish_translation": "Pienso que al sentarse a la mesa con franqueza se logran buenos acuerdos, y después cada quien vuelve a lo suyo."
+  },
+  {
+    "sentence_id": 17,
+    "original_aguaruna": "Ashitíi jaanchik awi tukee sumauji waji sujataya nuwig mijan nagkaeja minag nuwig.",
+    "spanish_translation": "Toda la mercancía de ropa que siempre compramos allá para la venta está justo en ese mismo lugar, sobre la viga del año pasado."
+  },
+  {
+    "sentence_id": 18,
+    "original_aguaruna": "Dekaapamu kajimatkipa nuniakum anenjukam material tsupigta.",
+    "spanish_translation": "No olvides la instrucción, y cuelga el material designado."
+  },
+  {
+    "sentence_id": 19,
+    "original_aguaruna": "Bakichik tsawantai asauwai muun nuweejai ikam pujamuji.",
+    "spanish_translation": "Un día, vivió en la selva con una gran mujer."
+  },
+  {
+    "sentence_id": 20,
+    "original_aguaruna": "Nuwaush anentaimas ekeme: ¿Niish waji titasag time?",
+    "spanish_translation": "La mujer pensaba para sus adentros: '¿Y él, qué dirá?'"
+  },
+  {
+    "sentence_id": 21,
+    "original_aguaruna": "Daseenum wekaemja wekaetainmak egketjai.",
+    "spanish_translation": "Sigo el sendero ancestral de nuestros antepasados."
+  },
+  {
+    "sentence_id": 22,
+    "original_aguaruna": "Dekatkauk, takusta tuu jikattsames diyaame nunuu atsumamujum disam.",
+    "spanish_translation": "Primero, mantén tu compromiso, para que consideres bien lo que ustedes necesitan."
+  },
+  {
+    "sentence_id": 23,
+    "original_aguaruna": "Dekaskenmak ataktu wakitkittajai Hurghada jegan.",
+    "spanish_translation": "Realmente, volveré de nuevo a Hurghada."
+  },
+  {
+    "sentence_id": 24,
+    "original_aguaruna": "2: ujumak ajuntuata yumimitu puju wiya bichatnunum, dukikam ukukata wiya yumiska nunu nanagti. Egketuata Kuchi pagae wok tutai nui najukti betek.",
+    "spanish_translation": "2: Añade un poco de dulce a la manteca fría y después ponla a derretir con agua. Luego, coloca la costilla de cerdo en la olla para que se cocine de manera uniforme."
+  },
+  {
+    "sentence_id": 25,
+    "original_aguaruna": "• Diwi pujamunum diwimkagtamu (IBI) tsagkugnayamu pujamu tutitag wajastamatai mumiashkush mesegmatai.",
+    "spanish_translation": "La condonación de la deuda (IBI) se convierte en un gravamen al momento de su vencimiento total."
+  },
+  {
+    "sentence_id": 26,
+    "original_aguaruna": "Peegmagbauwa nunim tsekeniu, nuniak bukuitamun yujagkim ema ukukui.",
+    "spanish_translation": "El águila despegó súbitamente, levantando una polvareda."
+  },
+  {
+    "sentence_id": 27,
+    "original_aguaruna": "<wajii suman:> Ayu, jaasta, juwimpash, XF15C3999A takakjam.",
+    "spanish_translation": "Bueno, por favor, regístreme el XF15C3999A aquí mismo."
+  },
+  {
+    "sentence_id": 28,
+    "original_aguaruna": "Ii iwainmamaun dekaawag shiig juwaktinme takumek, wajuku papii atii timauwaita nunuke aintsam takasta.",
+    "spanish_translation": "Si al ver nuestro ejemplo crees que puedes hacerlo bien, entonces hazlo como es debido, tal como lo manda el documento."
+  },
+  {
+    "sentence_id": 29,
+    "original_aguaruna": "<Nuwa:> Nankin ataktu ikiyamui ~❄️",
+    "spanish_translation": "<Mujer:> Nankin está temblando de frío otra vez."
+  },
+  {
+    "sentence_id": 30,
+    "original_aguaruna": "Companiak najanamui kuashat aentsn ijuanja impresoras 3D wakesa diin aidau, puyatjus takau aidau emkami tusa impresionnun imanik akikchau aidau aiksag yupichu.",
+    "spanish_translation": "Una compañía, con la colaboración de muchas personas, produce impresoras 3D para crear los objetos que se deseen y, con el fin de ayudar a los trabajadores esforzados, las impresiones que se realizan son de muy bajo costo y también fáciles de hacer."
+  },
+  {
+    "sentence_id": 31,
+    "original_aguaruna": "Dekas papiiji diigmak, apaji nuwigtuu dukuji aina nunuka nii kuitaamaujig metekai. ",
+    "spanish_translation": "Ciertamente, como dice el libro, los padres son los mismos que lo cuidan."
+  },
+  {
+    "sentence_id": 32,
+    "original_aguaruna": "<A:> Ii dekaig nuna dekagmachu asa.",
+    "spanish_translation": "Porque no sabemos de eso."
+  },
+  {
+    "sentence_id": 33,
+    "original_aguaruna": "Jutii jintinkagtuatasa papii umikbauwa nuwig uchijum atsumamu nuwigtuu unuimatnum jegantatabaujinig aujak unuimatmainai.",
+    "spanish_translation": "Para saber qué necesitan sus hijos para llegar a estudiar, nosotros podemos aprenderlo leyendo el texto que se ha preparado en ese mismo lugar."
+  },
+  {
+    "sentence_id": 34,
+    "original_aguaruna": "<Aents dekaapkagtin:>Anentaimtsuji iniibauk makchauwai tusaik.",
+    "spanish_translation": "El Sabio: Preguntar sin pensar es incorrecto."
+  },
+  {
+    "sentence_id": 35,
+    "original_aguaruna": "Ayu, awetugta tikish yutai inagkamam nunu.",
+    "spanish_translation": "Bien, manda esa otra comida cocida."
+  },
+  {
+    "sentence_id": 36,
+    "original_aguaruna": "Amek anentamsam buñuelo de patatas inajut unuimamainaitme.",
+    "spanish_translation": "Si quieres, puedes aprender a preparar buñuelos de patata."
+  },
+  {
+    "sentence_id": 37,
+    "original_aguaruna": "¿Imanikag atsusme utujibauk Aymeric wantinkau nii wainchamak tuja wainkatsah dakitamu, nagkabaunum makchaun anentaisau asa nina pachisa?",
+    "spanish_translation": "¿Cómo es que no te importó que Aymeric se presentara sin que nadie lo viera y que se rechazara ese hecho, solo porque pensabas en él sin considerar a nadie en público?"
+  },
+  {
+    "sentence_id": 38,
+    "original_aguaruna": "<Yixin:>Jaha, ajuinawai, tujash ashii anagmakbau ainawai.",
+    "spanish_translation": "<Yixin:>Sí, hay, pero ya todos están apartados."
+  },
+  {
+    "sentence_id": 39,
+    "original_aguaruna": "Daseenum chicham ujanitaiya nuwi awetugta. Jujuna pachisan kuwashat ujamainaitjame eteeja ujanitaiya nuwi.",
+    "spanish_translation": "Envía allá el mensaje ancestral. Sobre esto, puedo contarte mucho de lo selecto que se dijo allí."
+  },
+  {
+    "sentence_id": 40,
+    "original_aguaruna": "Wii juwaktatjai ditajai, ayujattajai antsanuk wasugkamattai ditajai atum waketkumin.",
+    "spanish_translation": "Iré a acompañarlos y a jugar con ellos cuando ustedes regresen."
+  },
+  {
+    "sentence_id": 41,
+    "original_aguaruna": "Wika atumnak emenantsa diyajime.",
+    "spanish_translation": "Yo los menosprecio."
+  },
+  {
+    "sentence_id": 42,
+    "original_aguaruna": "Duoduok kuwashat zanahorian tuke tsawantai yuu wajakui, tujash tsakatush aajakui nuwigtuu tsakat dekapmamá wajakui piipish asa.",
+    "spanish_translation": "El duoduok se alimenta de mucha zanahoria todos los días, pero como todavía es una cría, se ve bastante pequeño."
+  },
+  {
+    "sentence_id": 43,
+    "original_aguaruna": "Wemajai kampatuma iwainmamainum aiksanuk wetatjai juju mijantinish pegkejan dutikaina nui, tuke shiig pegkeg au agme.",
+    "spanish_translation": "Así como fui a la tercera feria, también iré a este puesto donde hacen cosas excelentes; siempre son de lo mejor."
+  },
+  {
+    "sentence_id": 44,
+    "original_aguaruna": "Diipasam dawem kugtujum awagkita dutikakum yapajiam takasata.",
+    "spanish_translation": "Empújalo despacio con el pie para regresarlo, y luego acomódalo."
+  },
+  {
+    "sentence_id": 45,
+    "original_aguaruna": "Tsawan 14: Napinak wainkajai. Wisha umintsatjai. Jegajui jemag hora asan waketkitjai tijai. ¡Wakeejusan dekapeajai yutain dekas shiig pegkejan yuwatatajai nunikan té michatnun uwagtatajai!",
+    "spanish_translation": "Día 14: Vi a Napinak. Yo también me voy a alistar. Le dije que ya me regreso porque en mi casa es hora de comer. ¡Qué ganas! Siento que voy a comer algo riquísimo, y después me tomaré un té para no sentirme tan lleno."
+  },
+  {
+    "sentence_id": 46,
+    "original_aguaruna": "<B:> ¿Tuuwa?",
+    "spanish_translation": "¿Cuál?"
+  },
+  {
+    "sentence_id": 47,
+    "original_aguaruna": "Gobierno aina duka batsatkamunum ekeemi takastatabaunmak apu wajasa eemta nuna dekau amainai uweja bakichik amum mijan takastina nuna.",
+    "spanish_translation": "El gobierno ha dispuesto que para ocupar el cargo de autoridad en la comunidad, es requisito haber trabajado durante seis años."
+  },
+  {
+    "sentence_id": 48,
+    "original_aguaruna": "Witjai amina wakesan diyaunuk.",
+    "spanish_translation": "Yo te quiero."
+  },
+  {
+    "sentence_id": 49,
+    "original_aguaruna": "Bishuk yawa tagkumamu aents sumainawai jeen apusatatus nujai betekai.",
+    "spanish_translation": "La gente compra gatos y perros domesticados para tenerlos en casa, ya que ese es su propósito."
+  },
+  {
+    "sentence_id": 50,
+    "original_aguaruna": "Nuwa muntsugta yapi kapa wajasme, Aymeric diisme nuniak minash wakejuntsuak tusa anentaimsau, nui senchi juki nagkamu pakijintan.",
+    "spanish_translation": "La joven se sonrojó al ver a Aymeric, pensando que él tampoco la deseaba, y en ese momento agarró con fuerza a su primer amor."
+  },
+  {
+    "sentence_id": 51,
+    "original_aguaruna": "Inagnamu dekaamati ajutjamui imataishkam.",
+    "spanish_translation": "Lo último también tiene sabiduría."
+  },
+  {
+    "sentence_id": 52,
+    "original_aguaruna": "- ¿Makmamtin dekapmamtsumek?",
+    "spanish_translation": "¿Cuántos has contado?"
+  },
+  {
+    "sentence_id": 53,
+    "original_aguaruna": "Kajimatkipa zapatjum paka iyash umuchiamu takat takaamunum atsumtatam nunuu.",
+    "spanish_translation": "No te olvides de tus zapatos de trabajo, los necesitarás para protegerte del suelo en la faena."
+  },
+  {
+    "sentence_id": 54,
+    "original_aguaruna": "Waji segaamume nuka umisam atsui.",
+    "spanish_translation": "No tengo a la mano lo que ustedes piden."
+  },
+  {
+    "sentence_id": 55,
+    "original_aguaruna": "¡Pegkeg anentaimsaume tanish ajaka awi, wishakam aiksanuk takastajai tusan anentaimjai!",
+    "spanish_translation": "¡Fíjense bien en ese trabajo de la pared, porque pienso hacer uno igual!"
+  },
+  {
+    "sentence_id": 56,
+    "original_aguaruna": "Lola 14 mijan ajamu waji ima pegkeg aidau agaja takakbaujig:",
+    "spanish_translation": "Lola, de 14 años, enumera las cosas muy buenas de su trabajo:"
+  },
+  {
+    "sentence_id": 57,
+    "original_aguaruna": "<A:> Shiig dekapmamtsujai.",
+    "spanish_translation": "No entiendo muy bien."
+  },
+  {
+    "sentence_id": 58,
+    "original_aguaruna": "¿Dakumja daseenum iwainamua nuwish segamainkaitag?",
+    "spanish_translation": "¿Puedo pedir un dibujo antiguo como muestra?"
+  },
+  {
+    "sentence_id": 59,
+    "original_aguaruna": "Papii lapis takastinuk, ima papii anugtaijaig takasta, materiala nujai takamainuk aikawaipa.",
+    "spanish_translation": "Para el trabajo con papel y lápiz, usa el documento adjunto y no prohíbas los materiales de trabajo."
+  },
+  {
+    "sentence_id": 60,
+    "original_aguaruna": "Kashi wajasbaunum Swati kanutaijin nigki pujume.",
+    "spanish_translation": "Anoche, Swati se encontraba solo en su habitación."
+  },
+  {
+    "sentence_id": 61,
+    "original_aguaruna": "Uno Suro yabai kashia juka niinu amainai tujas viernestinchakam iyaawai.",
+    "spanish_translation": "Esta noche, esto le pertenece a Uno Suro, pero solo hasta el viernes."
+  },
+  {
+    "sentence_id": 62,
+    "original_aguaruna": "Miyan 1857tin, maaniamu Delhi nugkamun nagkamdau.",
+    "spanish_translation": "En mayo de 1857, estalló la rebelión en Delhi."
+  },
+  {
+    "sentence_id": 63,
+    "original_aguaruna": "Tuwee, Apauchik wetii tusa tawai.",
+    "spanish_translation": "¡Cuidado!, dice que Nuestro Padre se irá."
+  },
+  {
+    "sentence_id": 64,
+    "original_aguaruna": "18 mijan ajuinau jau aina nunua nuwigtuushka aan dukap ajuinau.",
+    "spanish_translation": "Durante 18 años sembraron mal, por eso ahora sembraron mucho maíz."
+  },
+  {
+    "sentence_id": 65,
+    "original_aguaruna": "Imaanika dekapeasji takasa kuichig juki sumaku amuna nunuu ima kuashtai takasa juna nujaig dekas diyaamak.",
+    "spanish_translation": "De tanto esforzarnos trabajando, ocupados con el dinero de las compras y las entregas, y en tantas otras cosas, por eso mismo no vemos con claridad la realidad de esta persona."
+  },
+  {
+    "sentence_id": 66,
+    "original_aguaruna": "Dekatkauk nanchikjunak jiju puyaijai yakagmajai nuniakug kuwemjamjai.",
+    "spanish_translation": "Primero, lleno de temor y cólera, arrojé la lanza de hierro."
+  },
+  {
+    "sentence_id": 67,
+    "original_aguaruna": "Antukia, jujuu aentsuk waita. Antugkaipa, waagki tamak, tukee tsanumas etsegbau awai eteeja ujanitaya nuwig.",
+    "spanish_translation": "Escucha, esa persona es mentirosa. No le hagas caso, porque lo que cuenta es el mismo cuento de siempre para engañar, una historia que se narra aquí como advertencia."
+  },
+  {
+    "sentence_id": 68,
+    "original_aguaruna": "¿Antugmakum ii takataijin chichaamu ama dusha?",
+    "spanish_translation": "¿Entendiste lo que hablamos en el trabajo?"
+  },
+  {
+    "sentence_id": 69,
+    "original_aguaruna": "<A:>¿Ampijatnush waji time yamai kashikmasash?",
+    "spanish_translation": "¿Qué dijo el médico para mañana?"
+  },
+  {
+    "sentence_id": 70,
+    "original_aguaruna": "Awai ima kugkuima kagkegak yujaina duke yujastinme tusa najanamu, jujuig shiig sinchi anuntuk yujau ainawai, tujash aneetsuk imaanika sinchi wekaesati tichamu aig.",
+    "spanish_translation": "La gran tortuga fue creada para que los valientes vivan en comunidad; ellos tienen un espíritu bueno y muy fuerte, pero no se les permite actuar con arrogancia ni falta de consideración."
+  },
+  {
+    "sentence_id": 71,
+    "original_aguaruna": "Tabau awai yabai kashia juka ajantusa diyaamu yaakat datsa batsata nudau.",
+    "spanish_translation": "Esta noche, la historia trata sobre el respeto que muestran los jóvenes de la ciudad."
+  },
+  {
+    "sentence_id": 72,
+    "original_aguaruna": "Kanutaik shiig muntae antsag shiig jaipjamu, jujuwai pegkegnum juwakuitag duka.",
+    "spanish_translation": "Lo que en el sueño se ve abundante y se presagia como bueno, eso es el fruto que se recoge de buena tierra."
+  },
+  {
+    "sentence_id": 73,
+    "original_aguaruna": "Tsuwapaamu utsamu: ame pujamugmin tsuwamas takainak taawagtatui.",
+    "spanish_translation": "El problema viene de tu forma de ser; por andar creando conflictos, te van a llegar más problemas."
+  },
+  {
+    "sentence_id": 74,
+    "original_aguaruna": "Piipish chikaakum tupikaakum nagkamata jujuu tewa tukumka wasugtaiya nunuu kampatumaa tenteata, nuniakum tikishchakam takastaa.",
+    "spanish_translation": "Cuando el pajarito comience a piar y a brincar, de los que están jugando a la pelota, acorrala al tercero y después haz lo mismo con el siguiente."
+  },
+  {
+    "sentence_id": 75,
+    "original_aguaruna": "Ijunja takatai jutijai",
+    "spanish_translation": "Nuestra reunión de trabajo."
+  },
+  {
+    "sentence_id": 76,
+    "original_aguaruna": "Tsawan 11: Nimpainuk katsunmain nimpantsui. Waji sujutaijuiyan aire acondicionadon ekemakjai. Bateriak kushat tsawan katsunjache.",
+    "spanish_translation": "Día 11: El calor era insoportable. Prendí el aire acondicionado de la tienda, pero la batería estaba gastada y no aguantó todo el día."
+  },
+  {
+    "sentence_id": 77,
+    "original_aguaruna": "<Nuwa:> Bichatua anin dekapmamjai, suwen najamtatawai 😷",
+    "spanish_translation": "Siento que me estoy resfriando, me va a doler la garganta. 😷"
+  },
+  {
+    "sentence_id": 78,
+    "original_aguaruna": "Nuwigtuu, aneaku ataa tarjeta kuwichik jitai takaam nunuu.",
+    "spanish_translation": "Señora, con cuidado, esa tarjeta es para que funcione el cajero automático."
+  },
+  {
+    "sentence_id": 79,
+    "original_aguaruna": "3) Yaya jinkine papii ausa nagkamamunmash.",
+    "spanish_translation": "Y para empezar a estudiar, el libro es una buena ayuda."
+  },
+  {
+    "sentence_id": 80,
+    "original_aguaruna": "- Tuu pujuipa juka tuke pachiashmau amuekattawai.",
+    "spanish_translation": "No te quedes así, que esto caerá en el olvido para siempre."
+  },
+  {
+    "sentence_id": 81,
+    "original_aguaruna": "Iyashim bukem inantaita, aiksamek bakum mena anu takuita ,nuniakum kuntujum untsuja anu dakuekam dawem mena anu antigta tikishim kagkagmeshkam.",
+    "spanish_translation": "Levante la cabeza y el brazo izquierdo. Luego, con el brazo derecho estirado, toque el pie izquierdo, y después la rodilla y la pierna de ese mismo lado."
+  },
+  {
+    "sentence_id": 82,
+    "original_aguaruna": "Nuwigtuushkam, imaanikam chichakaipa nuwigtuu sukutin uwajaipa inagkaim.",
+    "spanish_translation": "Además, por eso no hables ni bebas lo que está caliente; déjalo."
+  },
+  {
+    "sentence_id": 83,
+    "original_aguaruna": "Ciencias, matemáticas, nuwigtuu tikish aina nunuu unuimatnum jintiamunum ipaajatji daseenum unuimagtinme tusa.",
+    "spanish_translation": "Incluimos en el currículo educativo las materias de Ciencias y Matemáticas, así como otras similares, con el propósito de que aprendan sobre el mundo."
+  },
+  {
+    "sentence_id": 84,
+    "original_aguaruna": "Alberto Garcia: IRPFya jujuu kuitan empresa akipa nuna diis emetjupattawai, ame akeejamu achattawai.",
+    "spanish_translation": "Alberto García: La empresa se encargará de gestionar la retención del IRPF, tu sueldo no se verá afectado."
+  },
+  {
+    "sentence_id": 85,
+    "original_aguaruna": "<Aents aminiig sumau:>Ajayi, ¿Tuwaita iwainmamu shiig waintasih?",
+    "spanish_translation": "Amigo, ¿cuál se ve mejor?"
+  },
+  {
+    "sentence_id": 86,
+    "original_aguaruna": "Shiig aneasa etsegjai juju nantuntin nagkamsan takag nunu agente bancario al Banco Marburger.",
+    "spanish_translation": "Con mucha alegría les cuento que este mes empecé a trabajar como agente bancario en el Banco Marburger."
+  },
+  {
+    "sentence_id": 87,
+    "original_aguaruna": "Iwantuktajai wii dekamujuiyan.",
+    "spanish_translation": "Yo lo haré desaparecer con lo que sé."
+  },
+  {
+    "sentence_id": 88,
+    "original_aguaruna": "Puyat tabau ajutme, dekapmajai antukua anin.",
+    "spanish_translation": "Me dio un susto, fue como si hubiera escuchado algo."
+  },
+  {
+    "sentence_id": 89,
+    "original_aguaruna": "<B:> Jaha, anmamtin pujajai ¿wagka?",
+    "spanish_translation": "Sí, estoy bien, ¿por qué?"
+  },
+  {
+    "sentence_id": 90,
+    "original_aguaruna": "<B:> ¿Iwagmainkaitam?",
+    "spanish_translation": "¿Estás bromeando?"
+  },
+  {
+    "sentence_id": 91,
+    "original_aguaruna": "Makichik uweja amum nantu weenawai jinkigmauk, tujash Marte matsatui.",
+    "spanish_translation": "Lleva cinco meses desaparecido, pero está con Marte."
+  },
+  {
+    "sentence_id": 92,
+    "original_aguaruna": "Ampiijatin iniiasta COVID-19 achimakaig tusa ampiimait ampiimamnum.",
+    "spanish_translation": "El personal de salud acude al centro de salud para curar a los contagiados de COVID-19."
+  },
+  {
+    "sentence_id": 93,
+    "original_aguaruna": "Ajutjamui takaaku agkan pujusa takamain nuniaku ashi dekamu iwainmamkatatabau.",
+    "spanish_translation": "Al contar con un espacio propicio donde podamos trabajar tranquilamente, podremos demostrar todos nuestros conocimientos."
+  },
+  {
+    "sentence_id": 94,
+    "original_aguaruna": "Awi kuwashat takaamu wainkattame waji tsawantai kashikmasmesh takamainaitme nunuu.",
+    "spanish_translation": "Allá encontrarás mucho por hacer, un trabajo que podrás realizar cualquier día, incluso por la mañana."
+  },
+  {
+    "sentence_id": 95,
+    "original_aguaruna": "Untsumkamu imajui ukumainaitme iina papijin web.",
+    "spanish_translation": "Puedes publicar en nuestra página web el anuncio que está allá."
+  },
+  {
+    "sentence_id": 96,
+    "original_aguaruna": "¡Aanin asamtai mina kanaljui yunuumkata nuniakum pujutim yapajiaata!",
+    "spanish_translation": "¡Por eso, viaja en mi canoa y así cambia tu forma de vivir!"
+  },
+  {
+    "sentence_id": 97,
+    "original_aguaruna": "<A:>¿Shintagmek tepam?",
+    "spanish_translation": "¿Estás despierto?"
+  },
+  {
+    "sentence_id": 98,
+    "original_aguaruna": "Mina kanutaijuk nayantsa uwetus ame, ashii kanutaik nayantsa uwetus ame.",
+    "spanish_translation": "Mi relato es la ribera del mar, y todo relato es la ribera del mar."
+  },
+  {
+    "sentence_id": 99,
+    "original_aguaruna": "¡Etsa 5 p.m. wegai pujuta megkaekam taawaipa!",
+    "spanish_translation": "¡No vayas a faltar a las 5 p.m.!"
+  },
+  {
+    "sentence_id": 100,
+    "original_aguaruna": "Eke eketainakua tempemakag chimpiju.",
+    "spanish_translation": "En la banca, los pasajeros están recostados."
+  },
+  {
+    "sentence_id": 101,
+    "original_aguaruna": "Examen susatnuk internetnum wamak etsegnaktatui.",
+    "spanish_translation": "El resultado del examen se publicará pronto en internet."
+  },
+  {
+    "sentence_id": 102,
+    "original_aguaruna": "Takaakmesh aan sinchik takabaitsume.",
+    "spanish_translation": "Aunque trabajas allá, no trabajas duro."
+  },
+  {
+    "sentence_id": 103,
+    "original_aguaruna": "Papii agagbauk yapajiau imperiush wajuk depetmamkag pujawa nuna, tujash ¿Arshad pujau nii dekaskea nunuu tabau nuwigtuu yama ataktuu agau pujut nagkaemakiuwa nuna?",
+    "spanish_translation": "La historia escrita trata sobre la caída y transformación de los imperios, pero, ¿acaso la verdad que él proclamó en un principio ha sido reescrita ahora, superando así aquel modo de vida anterior?"
+  },
+  {
+    "sentence_id": 104,
+    "original_aguaruna": "Dakaka dikmaa, wainkaju uchi egketun.",
+    "spanish_translation": "Al mirar, encontraron al niño puesto adentro."
+  },
+  {
+    "sentence_id": 105,
+    "original_aguaruna": "Tujash apauchi, mina dukuchjuk wijai Shimla wemainajama.",
+    "spanish_translation": "Pero el jefe, mi mamá y yo íbamos con Shimla."
+  },
+  {
+    "sentence_id": 106,
+    "original_aguaruna": "Mina apan aidau ayu wetaa tujutchagtatui.",
+    "spanish_translation": "Mis parientes no creerán que el viaje vaya a salir bien."
+  },
+  {
+    "sentence_id": 107,
+    "original_aguaruna": "<A:>Anna Pavlovna, tijutta, ¿Anu datsa shiigbauchia dusha yaita?",
+    "spanish_translation": "Anna Pavlovna, dígame, ¿quién es ese joven tan bien parecido?"
+  },
+  {
+    "sentence_id": 108,
+    "original_aguaruna": "Mina anentaig kakaime shiig aneak aiksanuk dekapmamjamjai yapig sukutak kapa wajasun.",
+    "spanish_translation": "Aunque en mi corazón siento un amor muy fuerte, me doy cuenta de que mi rostro se calienta y enrojece."
+  },
+  {
+    "sentence_id": 109,
+    "original_aguaruna": "Amekesh jega kafejum inagkata nunikam ¡ukusta kuwichik mil euros ama ninuu yajaneas jaamunum nuniashkush takatjuminiam jiinkum achiktin!",
+    "spanish_translation": "¡Tú, prepara todo en la cafetería de la casa y luego esconde sus mil euros para que lo atrapes, ya sea poniéndolo en aprietos o cuando salga de su trabajo!"
+  },
+  {
+    "sentence_id": 110,
+    "original_aguaruna": "YakatTrier ejapen, makichik anuntai muun kuichik aimnakun kasamkawagme ipak usumak weanui agkuantai.",
+    "spanish_translation": "En el centro de la ciudad de Trier, robaron un gran aparato lleno de dinero, y los cuatro ladrones se fueron por la tarde."
+  },
+  {
+    "sentence_id": 111,
+    "original_aguaruna": "Waamkeush nuwigtuu kuwashat imátjamu asa, Ling de los Han papii agag jikiu, nuniak generales ainaujin inak tiu jinta aina nuwi suntak ishiakta tusa, corte estado de emergencian imajakti tusa.",
+    "spanish_translation": "Como los problemas se agravaron rápidamente, Ling de los Han falsificó un documento. Inmediatamente después, convocó a sus generales y les ordenó que enviaran soldados a los caminos y que la corte declarara el estado de emergencia."
+  },
+  {
+    "sentence_id": 112,
+    "original_aguaruna": "Takatjui megkaekattajapi tusanuk anentaimchamiajai, takatat yupichuchayi, nuwigtuu ewaekanuk takashmaijai.",
+    "spanish_translation": "Para no fracasar en mi trabajo no reflexioné, pero la tarea era tan insignificante que, al darme cuenta, no la hice."
+  },
+  {
+    "sentence_id": 113,
+    "original_aguaruna": "¿Amesh ijunkau atatamek empresa con valores humanos tawa nuwish?",
+    "spanish_translation": "¿Formarás parte de esta empresa con valores humanos que se va a establecer?"
+  },
+  {
+    "sentence_id": 114,
+    "original_aguaruna": "Jujuu agamua juwig, anentain ujajatkatatajai wajuk kuishkish kuitamainaita nuna pachisan.",
+    "spanish_translation": "En este pronunciamiento, voy a exponer mi pensamiento sobre cómo se pueden administrar los recursos."
+  },
+  {
+    "sentence_id": 115,
+    "original_aguaruna": "¿Aush ipatbaukaik?",
+    "spanish_translation": "¿Y tú, sembraste?"
+  },
+  {
+    "sentence_id": 116,
+    "original_aguaruna": "Wakebesemag pujamujin waituk shiig chichamainchau dekapjau.",
+    "spanish_translation": "Se entristeció tanto al ver su estado que se quedó sin palabras."
+  },
+  {
+    "sentence_id": 117,
+    "original_aguaruna": "Jiyajatbaunmakesh, dutikashtatjai tabaunmakesh Diane apajig nii tibaun umiku, nuwaush kashi Aymeric De Chateaux tuwakti tibaunum, wantinkati tusa tibaunum umikbau.",
+    "spanish_translation": "A pesar de sus objeciones y contradicciones, el padre de Diane obedeció la orden, y así se cumplió el mandato de que su esposa acudiera por la noche a la reunión con Aymeric De Chateaux."
+  },
+  {
+    "sentence_id": 118,
+    "original_aguaruna": "Bishuk pujumainai 35 mijan.",
+    "spanish_translation": "Bishuk vivirá 35 años."
+  },
+  {
+    "sentence_id": 119,
+    "original_aguaruna": "Egiptunmak juka aimnawai ajusjai antsag yujag aidaujai.",
+    "spanish_translation": "En Egipto se llena con ajos y frutas."
+  },
+  {
+    "sentence_id": 120,
+    "original_aguaruna": "1) Intashii nuwigtuu daii shiig puju wajawin.",
+    "spanish_translation": "Para vivir bien, el cabello debe dejarse en su lugar."
+  },
+  {
+    "sentence_id": 121,
+    "original_aguaruna": "COVID-19jai jaamu dekapmamakme, ujutbau, tsuweamu nuwigtuu ashii iyashim najaimamu akuig, wait aneaasam pataimiin anikmagta/kanaktaa.",
+    "spanish_translation": "La enfermedad del COVID-19 se propaga con síntomas como tos, fiebre y dolor general en el cuerpo; ante esto, por favor, cuida y protege a tus seres queridos."
+  },
+  {
+    "sentence_id": 122,
+    "original_aguaruna": "Iinu jintinkagtin aina duka Universidad shiig pegkegnumia ausau ainawai iman asag ajanum takatnak dekainawai.",
+    "spanish_translation": "Nuestros profesores conocen el trabajo en la chacra porque han estudiado en una muy buena universidad."
+  },
+  {
+    "sentence_id": 123,
+    "original_aguaruna": "2. Nuniakum, dekaata wajuk takastatme nunuu: pipishnum nagkamam muunnum nuniashkumesh muunnum nagkamsa piipichinum inagnamunum interesa nuka.",
+    "spanish_translation": "2. Entonces, entiende cómo debes proceder: lo que empieza pequeño se vuelve grande, y de la misma manera, lo que empieza grande se vuelve pequeño al final; ese es el principio del interés."
+  },
+  {
+    "sentence_id": 124,
+    "original_aguaruna": "Tupiimakmau apigmaushakam pegkegchauwai.",
+    "spanish_translation": "No es bueno golpear al que ya está caído."
+  },
+  {
+    "sentence_id": 125,
+    "original_aguaruna": "<D:> Juju semanatinig atsuttajai, ijakun wegajai antsanuk wakitkishtatjai wamak, tikish semanatin tattajai.",
+    "spanish_translation": "Esta semana no estaré, me voy de visita y no regresaré pronto, sino hasta la próxima semana."
+  },
+  {
+    "sentence_id": 126,
+    "original_aguaruna": "Egaji uchijai takatan dekau jibaituk tsawantai takamu.",
+    "spanish_translation": "Egaji y su hijo saben hacer el trabajo completo en un solo día."
+  },
+  {
+    "sentence_id": 127,
+    "original_aguaruna": "Dakitnujai esattin wetanak aiksanuk yagkujitinshakam,aiksanuk wakenujai dasentin etsa akae autuni.",
+    "spanish_translation": "No me gusta que el verano se vaya, ni que todo se ponga amarillo; pero sí me gusta el viento que sopla al ocultarse el sol."
+  },
+  {
+    "sentence_id": 128,
+    "original_aguaruna": "<Chichainamu 3:>¡Shiig pegkejai, iwakua anmamtinai!",
+    "spanish_translation": "¡Qué bien hecho, parece vivo!"
+  },
+  {
+    "sentence_id": 129,
+    "original_aguaruna": "<Guillermo:>Yujumkak yuwau amainaitme?",
+    "spanish_translation": "<Guillermo:>¿Vas a comer?"
+  },
+  {
+    "sentence_id": 130,
+    "original_aguaruna": "<B:> Ame atsumamugmek minawai, amasagtatui 5.pm ¿ tikichnas wajina yaimainitjame?",
+    "spanish_translation": "Para lo que necesites, él vendrá y te atenderá a las 5 p.m. ¿Hay algo más en lo que te pueda ayudar?"
+  },
+  {
+    "sentence_id": 131,
+    "original_aguaruna": "Pachimjata ashii inagkamu makichik tsapa uchuchuji winchanum ¡senchi bikaju nijataik uminkae!",
+    "spanish_translation": "Mezcla toda la comida preparada en el tazón de calabaza. ¡Está muy espeso, pero si le agregas agua quedará perfecto!"
+  },
+  {
+    "sentence_id": 132,
+    "original_aguaruna": "Atsa ¿waji chichama?",
+    "spanish_translation": "No, ¿qué dice?"
+  },
+  {
+    "sentence_id": 133,
+    "original_aguaruna": "Anjali, Apauch Shimlakak aakmaka pujustasamek webaitsume tiagme.",
+    "spanish_translation": "Anjali, dicen que si quieres quedarte a vivir con el padre Shimlakak, no te vayas."
+  },
+  {
+    "sentence_id": 134,
+    "original_aguaruna": "Diichi tsagkugtugta, midaujujai Shirdi wetatjai.",
+    "spanish_translation": "Tío, con tu permiso, voy a ir a Shirdi con Midauju."
+  },
+  {
+    "sentence_id": 135,
+    "original_aguaruna": "Niig pujawai batsatkamu nayantsa nugkaan awa nuwi.",
+    "spanish_translation": "Él vive en el poblado de la costa."
+  },
+  {
+    "sentence_id": 136,
+    "original_aguaruna": "Chinak waamak achimainai yupichu takat muun ujani wega nuna ashí nugkanum nuniak egamainai wajuk takaku wiyakush wemainaita nuna .",
+    "spanish_translation": "Una gran oportunidad laboral, fácil y en expansión por todo el mundo, permite conseguir el sustento rápidamente, y a su vez, descubrir la forma en que, con trabajo, hasta los más adinerados pueden progresar."
+  },
+  {
+    "sentence_id": 137,
+    "original_aguaruna": "Yamaikik wantiinkag nuweenawag matsatui.",
+    "spanish_translation": "Ahora se casan públicamente."
+  },
+  {
+    "sentence_id": 138,
+    "original_aguaruna": "Tikish aina nuwig, dekaskek, imanchau ainawai.",
+    "spanish_translation": "Los otros son gente del lugar, auténticos y de poca importancia."
+  },
+  {
+    "sentence_id": 139,
+    "original_aguaruna": "<Jintinkagtin:>Tuyash ujanikta chichaman umianujau waimainai.",
+    "spanish_translation": "El profesor: Tuyas manda que quienes obedezcan la palabra, serán recompensados."
+  },
+  {
+    "sentence_id": 140,
+    "original_aguaruna": "Egaaji nuwakesh aigmagkesh jikatus wajii diin jutii takaamujin ijunkati tusa.",
+    "spanish_translation": "Tanto hombres como mujeres, al ver un objetivo que anhelamos en común, nos reunimos para unificar nuestro trabajo."
+  },
+  {
+    "sentence_id": 141,
+    "original_aguaruna": "Jiamg tsawanchik jugawai Saraswati Puja ememattak.",
+    "spanish_translation": "Hoy se celebra la Puja de Saraswati."
+  },
+  {
+    "sentence_id": 142,
+    "original_aguaruna": "<A:>Amekaitam, mina wajijuk eke taatsui.",
+    "spanish_translation": "¿Eres tú?, mi pariente todavía no llega."
+  },
+  {
+    "sentence_id": 143,
+    "original_aguaruna": "Tsawannak megkaekashjai mabiksa anentaibau awa nuna, yaijatkamunum nuniaku maak batsatbau diyaakug abau: ame tita wajuti akikmamush idaimainaita waji ukuamua nunuish nuniaku maak juwaktasa.",
+    "spanish_translation": "Me angustia la idea de que un día lo perderé todo, y si la inundación aparece como una salida, tú me preguntarás: '¿Desde cuándo está bien abandonar las deudas y lo que te encargaron solo para salvarte?'"
+  },
+  {
+    "sentence_id": 144,
+    "original_aguaruna": "<Jiju shina nuna takau:> Tsawaajugmek, Mango untsukuujum duwi see tajime, mina daajuk Martayai, ¿wajinma yaimainaitjime?",
+    "spanish_translation": "Buenos días, Mango. Gracias por llamarme. Mi nombre es Marta, ¿en qué puedo ayudarles?"
+  },
+  {
+    "sentence_id": 145,
+    "original_aguaruna": "Makichik tsawantai, kujanchak tau makichik tesoron uukmaun ikamian egaak.",
+    "spanish_translation": "Un día, un armadillo cavaba en la selva buscando un tesoro escondido."
+  },
+  {
+    "sentence_id": 146,
+    "original_aguaruna": "Mina kumpag aidau buñuelo de patatan shiig inagkachai tusa umiinashkug, duwis aaninatai.",
+    "spanish_translation": "Mis amigos se encargaron de preparar el buñuelo de patata para que quede delicioso, así que el resultado será el mismo de siempre."
+  },
+  {
+    "sentence_id": 147,
+    "original_aguaruna": "Li anentaimtamuk atak ijunja takastin papi jitai ijunja najanami taji 3D ijuntuja iina pujutjiya nunu umiktin 3D.",
+    "spanish_translation": "Unamos nuestros pensamientos una vez más para trabajar juntos en la construcción de la impresora 3D, uniendo así nuestra forma de vida para llevar a cabo este proyecto 3D."
+  },
+  {
+    "sentence_id": 148,
+    "original_aguaruna": "Kanutaik ajawai 5 yutaik, tuja 1 ame wayam, ame wajegamu yumain.",
+    "spanish_translation": "Hay cinco raciones de comida en la canoa, y una para ti al ingresar, que es la que te toca comer."
+  },
+  {
+    "sentence_id": 149,
+    "original_aguaruna": "Jinkiuk jukittame 24 horas nagkaematsaig.",
+    "spanish_translation": "Debes recogerlo antes de que se cumplan 24 horas desde tu salida."
+  },
+  {
+    "sentence_id": 150,
+    "original_aguaruna": "Yujumak yutaig yutaijig shiig penkeg ainawai.",
+    "spanish_translation": "La comida del comedor está muy buena."
+  },
+  {
+    "sentence_id": 151,
+    "original_aguaruna": "Utugka inagmainita kuchi pagaesh chujushjuntu yumimittakush:",
+    "spanish_translation": "Cómo se prepara el chancho para que quede dulce:"
+  },
+  {
+    "sentence_id": 152,
+    "original_aguaruna": "<A:> Atsa, tuja chichastasan wakegajai.",
+    "spanish_translation": "No, sino que quiero hablar."
+  },
+  {
+    "sentence_id": 153,
+    "original_aguaruna": "Kugkuim wekaetai jimag kagketaiji ajamu anunkumek tukee atsejutai atsejukta nuniakum akachu akachumata ipaksumak kagketaiji ajamu anunkumek.",
+    "spanish_translation": "El vocho es de tracción trasera, siempre con su techo y su franja decorativa, y bien plantado sobre sus cuatro llantas."
+  },
+  {
+    "sentence_id": 154,
+    "original_aguaruna": "Nunu pujutnum, nugkanmak tutitag wajas amayi. Apu aidau manituinak dita chichamin, nunu kuashat maniamu ajasuwai ashii.",
+    "spanish_translation": "En aquel lugar, en el territorio hubo un problema. Cuando los jefes se reunieron para deliberar, su discusión convirtió aquello en un conflicto mucho más grande."
+  },
+  {
+    "sentence_id": 155,
+    "original_aguaruna": "Tswantak etsantuk ame, tuja semnashme julio yaunchuk tuke ammaya nuanig, Londresak tuke ikiyamjauwa anin auwe, duwi pegkeg tsawan ajuntsame, tsawan pegkejush asamtai. ",
+    "spanish_translation": "Disfrutas de un día soleado, pero olvidas que desde julio nuestras mujeres de allá están en Londres, donde siempre es como si estuviera atardeciendo. Por eso tú la pasas bien, porque el día es bueno."
+  },
+  {
+    "sentence_id": 156,
+    "original_aguaruna": "Yaakta jintajig tutitjachu nuwigtuu bitat batsatbauwa nunin wantiinui.",
+    "spanish_translation": "En la calle del pueblo, continuamente aparecen en silencio, como si fueran los mismos habitantes."
+  },
+  {
+    "sentence_id": 157,
+    "original_aguaruna": "Shiig aneasa pujamu tikishnau dekaatatakujik dekatkau dekamainaitji iish wajuk pujaji dekatkauk nunuu.",
+    "spanish_translation": "No se puede conocer al verdadero sabio solo por observar la vida tranquila de los demás; el sabio es quien entiende nuestra propia forma de vivir."
+  },
+  {
+    "sentence_id": 158,
+    "original_aguaruna": "<Aents aminiig 2:>Wakejukmajai ❤️",
+    "spanish_translation": "Te amo ❤️"
+  },
+  {
+    "sentence_id": 159,
+    "original_aguaruna": "<B:> ¿Jasmek?",
+    "spanish_translation": "¿Es así?"
+  },
+  {
+    "sentence_id": 160,
+    "original_aguaruna": "Finanzasesp: Nuka dutikmaina, leynum awa nunuka imachikish 2%",
+    "spanish_translation": "Esto es aplicable, ya que según la ley corresponde como mínimo un 2%."
+  },
+  {
+    "sentence_id": 161,
+    "original_aguaruna": "Dekatkau jujuu nagkamtsukek, betek tsentsakta plomaadajai nuniashkumesh nivel laserjai.",
+    "spanish_translation": "Primero, traza la línea de forma continua y nivelada, bien sea con la plomada o con el nivel láser."
+  },
+  {
+    "sentence_id": 162,
+    "original_aguaruna": "<A:>Dekaskeskaita, dutikmaintsukaitai ashi piezas de repuestos takakkujik.",
+    "spanish_translation": "Averigua bien sobre todas las piezas de repuesto para la reparación, no vaya a ser que resulte imposible."
+  },
+  {
+    "sentence_id": 163,
+    "original_aguaruna": "<A:> Anentain ejeechajai bachishchish chichagkagtuktajum tujamchaja nuna.",
+    "spanish_translation": "Pienso que no deberían hablar tonterías sobre eso."
+  },
+  {
+    "sentence_id": 164,
+    "original_aguaruna": "<A:> ¿Anuntaigmish wajukea?",
+    "spanish_translation": "¿Y tú qué opinas?"
+  },
+  {
+    "sentence_id": 165,
+    "original_aguaruna": "¿Ijagsamugmea nuwish tuawaita?",
+    "spanish_translation": "¿Me estás bromeando?"
+  },
+  {
+    "sentence_id": 166,
+    "original_aguaruna": "¿Ijiamun yaa kajimatkish ukuawaa?",
+    "spanish_translation": "¿Quién se olvidó del visitante y lo dejó?"
+  },
+  {
+    "sentence_id": 167,
+    "original_aguaruna": "See, ampijatnu.",
+    "spanish_translation": "Mira, el médico."
+  },
+  {
+    "sentence_id": 168,
+    "original_aguaruna": "Shiig yujutsata anentaiju.",
+    "spanish_translation": "Que mi alma se nutra bien."
+  },
+  {
+    "sentence_id": 169,
+    "original_aguaruna": "¡Wainkatasan shiig sinchi wakeejajame! ❤️",
+    "spanish_translation": "¡Tengo muchísimas ganas de verte! ❤️"
+  },
+  {
+    "sentence_id": 170,
+    "original_aguaruna": "Tikish batsatkamu aina nuwig papiigtuchu anuntuinawai.",
+    "spanish_translation": "La gente de otras comunidades está allí indocumentada."
+  },
+  {
+    "sentence_id": 171,
+    "original_aguaruna": "Etsa 12 wegai, tujash nunuu etsa 11 wegai jikittajame.",
+    "spanish_translation": "Son las doce, pero te saqué a las once."
+  },
+  {
+    "sentence_id": 172,
+    "original_aguaruna": "Aniu asamtai, nuwitam nunin asam, wainjai ipaajataina nuna fuerza aereanun ijunkati tusa, kashi ekemaka wekaetai aina nunash, inakmasa wekaetainash, unuimagtinush nuwigtuu iyash kuitaamku takatai ainaush.",
+    "spanish_translation": "Por esta razón, y al ser un momento receptivo, para concentrar la energía de aquello que veo brillar, se convoca a los caminantes nocturnos, a los viajeros, a los estudiantes y también a los trabajadores que cuidan de su cuerpo."
+  },
+  {
+    "sentence_id": 173,
+    "original_aguaruna": "Eme anentsa ipajime juti nuwenbaunum pujusti nuniak ichishkagtugti pujutan pachis tusa.",
+    "spanish_translation": "Acompáñennos de corazón en nuestra boda para así bendecir nuestra vida juntos."
+  },
+  {
+    "sentence_id": 174,
+    "original_aguaruna": "Tujash, pepinon ajakaaju.",
+    "spanish_translation": "Pero, cosecharon pepino."
+  },
+  {
+    "sentence_id": 175,
+    "original_aguaruna": "3. Dekatkauk muunnum nagkamsam diwijum akikmakta nuniakum piipich tikish diki aina nuka.",
+    "spanish_translation": "Primero, paga la deuda comenzando por la más grande, y luego las otras que son pequeñas."
+  },
+  {
+    "sentence_id": 176,
+    "original_aguaruna": "See aigkaum duwi",
+    "spanish_translation": "Gracias por lo que hiciste."
+  },
+  {
+    "sentence_id": 177,
+    "original_aguaruna": "Nagkamami makichik jiju esagma nuja nuniaku dekapsa kininji aputusa wemi 85% iina kijinjiya nunua betekmattaku",
+    "spanish_translation": "Inicialmente, con un componente metálico base, y por consiguiente, al añadir la prueba de nuestra calidad, se alcanza el 85% de nuestro peso de referencia para que sea equivalente."
+  },
+  {
+    "sentence_id": 178,
+    "original_aguaruna": "Eme anentsa festival Lancha Dragónka jujuka Makichik Chinanmak yaunchuk nagkamsa jistamjutaiyai. Jujuka tsawan uweja makichik amum wegai uweja Makichik amum nantush wegai jata nuwigtuu maakchau pujamu inaimau.",
+    "spanish_translation": "El Festival del Bote del Dragón es una celebración tradicional que se originó en la antigua China. Se celebra el quinto día del quinto mes lunar para prevenir enfermedades y alejar los malos espíritus."
+  },
+  {
+    "sentence_id": 179,
+    "original_aguaruna": "¡Niimeg shiig pegkegchiuchi!",
+    "spanish_translation": "¡Qué cara más linda!"
+  },
+  {
+    "sentence_id": 180,
+    "original_aguaruna": "<B:> ¿Tuuwa?",
+    "spanish_translation": "¿Cuál?"
+  },
+  {
+    "sentence_id": 181,
+    "original_aguaruna": "Dekas Apu Emperador Bahadur Shah Zafar Mughal keekui, bátsatkamu yaaktak aya yujagmim wajasui. Nunikaitkush initak dekas Apu pujutaig tutit wajakchauwai.",
+    "spanish_translation": "El verdadero líder, el Emperador Bahadur Shah Zafar Mughal, se quedó gobernando únicamente sobre su pueblo y su ciudad. Sin embargo, en realidad su trono no era estable."
+  },
+  {
+    "sentence_id": 182,
+    "original_aguaruna": "Mahshi inagbauk kuashat yapajinnawai tikish nugkanum inagbaunum apátka diyam.",
+    "spanish_translation": "El condenado Mashi cambia mucho al verse acompañado en su destierro en tierra ajena."
+  },
+  {
+    "sentence_id": 183,
+    "original_aguaruna": "Lucia ekeme papi umitaijin takatjin shiig umiktatus, nuniakun dekapmajai iyash tutitja anmamatin.",
+    "spanish_translation": "Lucía preparó el documento sobre su modo de vida y su trabajo para cumplirlo bien, y por eso sentí un gran malestar en el cuerpo y en el alma."
+  },
+  {
+    "sentence_id": 184,
+    "original_aguaruna": "Mai anentaimsaju uchi takustasajag ajakmata nuna ajakmatan.",
+    "spanish_translation": "Planifiquemos todos que el niño trabaje en el cultivo, en ese sembrío."
+  },
+  {
+    "sentence_id": 185,
+    "original_aguaruna": "See kuashat, ampijatnu.",
+    "spanish_translation": "Muchas gracias, doctor."
+  },
+  {
+    "sentence_id": 186,
+    "original_aguaruna": "Ipak usumta imania segam pujajai tujash dewagtukchaje.",
+    "spanish_translation": "Ya lo he pedido cuatro veces, pero no me equivoco."
+  },
+  {
+    "sentence_id": 187,
+    "original_aguaruna": "Yabai tsawanta juwik, kugkuim kagkekamtai yujatai aina nuig umiibauk kawegke, dekaskek yaakat piipitush aina nuwi.",
+    "spanish_translation": "Hoy en día, en el camino del motelo es donde el trabajo rinde frutos, especialmente en las comunidades más pequeñas."
+  },
+  {
+    "sentence_id": 188,
+    "original_aguaruna": "Yantamchigmin patasa yujumak yutai agkan pujume, apajuin segajai minau achati tusan, waagki tamak wika awig pujusnuk shiig anentaimsa pujumaichamjai.",
+    "spanish_translation": "En Yantamchig la mesa estaba servida, y yo le rogaba a mi padre que nadie se llevara lo mío; por eso, aunque estuviera allí mismo, no podía estar tranquilo."
+  },
+  {
+    "sentence_id": 189,
+    "original_aguaruna": "Kumpajum ijunja takataigmejai pachis. Tikichin pakijiima takaku deyaajai.",
+    "spanish_translation": "Con tu amigo trabajo en conjunto, pero al otro lo excluyo."
+  },
+  {
+    "sentence_id": 190,
+    "original_aguaruna": "¿Wajupa etsash wegai igkuuniktatji?",
+    "spanish_translation": "¿A qué hora nos encontramos?"
+  },
+  {
+    "sentence_id": 191,
+    "original_aguaruna": "Tuja, anentai awa duka ikam muun tepajanunui senchi tajimat wemain awai, nuna chinak takat yamagman apujus jiki takat yapagmainai pujutan así nugkanum.",
+    "spanish_translation": "Pues la idea que hay en la selva es que se puede lograr mucha prosperidad; por eso, al empezar un nuevo trabajo, ese mismo trabajo puede cambiar la vida en la tierra."
+  },
+  {
+    "sentence_id": 192,
+    "original_aguaruna": "Wainkaush iniimsa dekaatatakumek, jutiijai jujuu achinitaiya nuwi achimkata.",
+    "spanish_translation": "Si descubres su punto débil, únete a nosotros para agarrarlo por ahí."
+  },
+  {
+    "sentence_id": 193,
+    "original_aguaruna": "Yabaikish egainawai.",
+    "spanish_translation": "Hasta ahora lo ponen."
+  },
+  {
+    "sentence_id": 194,
+    "original_aguaruna": "<B:> Wika dekajai, wika dekaskeapita tatsuja.",
+    "spanish_translation": "Yo lo sé, pero no afirmo que sea cierto."
+  },
+  {
+    "sentence_id": 195,
+    "original_aguaruna": "Tsawan agkuamunum wemajai makichik yujumak yutai waintainum, nunui atash yuata tujutiaju asamtai.",
+    "spanish_translation": "Una tarde fui a comer a un puesto de yuca, ya que allí era imposible conseguir pollo."
+  },
+  {
+    "sentence_id": 196,
+    "original_aguaruna": "Fútbolmun umintsatasamek shiig iyashim umushjam nimpaagta:",
+    "spanish_translation": "Si te vas a preparar para jugar fútbol: esfuérzate al máximo y juega con todo."
+  },
+  {
+    "sentence_id": 197,
+    "original_aguaruna": "Chicham umigbauwai tuke tsawantai papii augku wegakuik nugkutaig betek nugkuja wetaiyai.",
+    "spanish_translation": "La regla es ir a la escuela todos los días con el mismo uniforme."
+  },
+  {
+    "sentence_id": 198,
+    "original_aguaruna": "Nigka dekakeapi tachau shintajash puja atsa kanakuash tepa.",
+    "spanish_translation": "Él no sabe si está despierto o dormido."
+  },
+  {
+    "sentence_id": 199,
+    "original_aguaruna": "Wishakam ujajame dekas apusata niimatai munta nunu nenata yaki ekemtai awa nunui kanutaish tsaptin ati.",
+    "spanish_translation": "Yo también te digo que cuelgues de verdad ese espejo grande en el asiento alto que está allí, para que el dormitorio también esté luminoso."
+  },
+  {
+    "sentence_id": 200,
+    "original_aguaruna": "<Aents aminiig 4:>Iwainmamin aidauk eke imatika wainchataiyai ayi, tuja yamaik wantinjaje.",
+    "spanish_translation": "Estas cosas antes no se veían así, pero ahora ya aparecieron."
+  }
+]
