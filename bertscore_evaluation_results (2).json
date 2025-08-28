@@ -1,0 +1,1802 @@
+[
+  {
+    "sentence_id": 1,
+    "aguaruna": "<A:> Atumkaitjum nuwa aidau, ¿wakegagmek ataktu juju semanatin nuwanuwak ijunjami tamash?",
+    "reference_spanish": "<A:> Hola chicas, ¿quieren otra noche de chicas esta semana?",
+    "gaia_spanish": "Señoras, ¿quieren que nos volvamos a reunir esta semana?",
+    "precision": 0.786700427532196,
+    "recall": 0.7660900950431824,
+    "f1": 0.7762585282325745
+  },
+  {
+    "sentence_id": 2,
+    "aguaruna": "Nantaki juakme waitijin betek nii kanamunum, nui wajas wajig ati tusa diyawai, makichik papi wayaun.",
+    "reference_spanish": "Se levanta y se queda frente a la puerta de su habitación, bajo la cual ve, con la misma sorpresa y miedo, que se desliza una hoja de papel.",
+    "gaia_spanish": "Al levantarse, perforó la puerta justo en su cama; parado allí, considera qué será, al ver un papel que entra.",
+    "precision": 0.7486943006515503,
+    "recall": 0.7210971117019653,
+    "f1": 0.7346366047859192
+  },
+  {
+    "sentence_id": 3,
+    "aguaruna": "Waamak etsegbau aents ujaaku",
+    "reference_spanish": "Anuncio urgente para la población",
+    "gaia_spanish": "La gente contó la noticia rápidamente.",
+    "precision": 0.7346011400222778,
+    "recall": 0.6862290501594543,
+    "f1": 0.7095916271209717
+  },
+  {
+    "sentence_id": 4,
+    "aguaruna": "<B:> Papi augku wetanmek wechattame juu tsawan minitta juwik, senchi uwajam kanag.",
+    "reference_spanish": "<B:> No puede ir a la escuela el resto de la semana y debe beber y dormir mucho.",
+    "gaia_spanish": "Cuando te enganches con la lectura del libro, no irás a ninguna parte este día, dormirás muy profundamente.",
+    "precision": 0.7079837918281555,
+    "recall": 0.7152284383773804,
+    "f1": 0.7115876078605652
+  },
+  {
+    "sentence_id": 5,
+    "aguaruna": "Dui wekaesan dekatkau jegamjai Hyde Park, nui nagkaemaki wemajai a Big Ben, atsanuk nagkaikimjai Palacio de Buckingham.",
+    "reference_spanish": "Luego caminé por Hyde Park hasta llegar a Big Ben, y crucé por el Palacio de Buckingham en mi camino hacia allí.",
+    "gaia_spanish": "Primero paseé por Hyde Park, después fui a ver el Big Ben y también el Palacio de Buckingham.",
+    "precision": 0.8255730867385864,
+    "recall": 0.7935173511505127,
+    "f1": 0.8092278838157654
+  },
+  {
+    "sentence_id": 6,
+    "aguaruna": "kasa aidau tupikakiaju anuntai mercedes tutainum bukuseanum ejapen wetanum.",
+    "reference_spanish": "Tras el asalto los dos delincuentes se dieron a la fuga en un Mercedes negro en dirección a la estación principal de trenes.",
+    "gaia_spanish": "Los ladrones huyeron a toda velocidad en un Mercedes negro por el medio del camino.",
+    "precision": 0.8038291931152344,
+    "recall": 0.7735707759857178,
+    "f1": 0.7884097695350647
+  },
+  {
+    "sentence_id": 7,
+    "aguaruna": "Unuinaimauwai jega pujusti tusa nuwigtuush yupichu kuitamainai.",
+    "reference_spanish": "Ya está entrenado para estar dentro de la casa y es muy fácil de cuidar.",
+    "gaia_spanish": "La enseñanza es que para poder vivir en una casa, también hay que cuidarla y mantenerla sin complicaciones.",
+    "precision": 0.7465923428535461,
+    "recall": 0.7613326907157898,
+    "f1": 0.7538904547691345
+  },
+  {
+    "sentence_id": 8,
+    "aguaruna": "- Atsa, dakitajai wajuk diigtame nuna.",
+    "reference_spanish": "- No, pero no me gusta como me estás mirando.",
+    "gaia_spanish": "No, no me gusta la manera en que lo ves.",
+    "precision": 0.8113107085227966,
+    "recall": 0.819841206073761,
+    "f1": 0.815553605556488
+  },
+  {
+    "sentence_id": 9,
+    "aguaruna": "Tikish tsawantai dekapsata tikish yutai, apajui wakegakuig wakejuktatme.",
+    "reference_spanish": "La próxima vez prueba otros platillos y te gustarán todos si Dios quiere.",
+    "gaia_spanish": "Otro día prueba otra comida, si Dios quiere, te gustará.",
+    "precision": 0.8572112321853638,
+    "recall": 0.8366878032684326,
+    "f1": 0.8468251824378967
+  },
+  {
+    "sentence_id": 10,
+    "aguaruna": "...¡Wait aneasam, ayugtuawaipa!",
+    "reference_spanish": "... ¡No me alimentes, por favor!",
+    "gaia_spanish": "...¡Por favor, déjame en paz!",
+    "precision": 0.8852586150169373,
+    "recall": 0.8667963743209839,
+    "f1": 0.8759302496910095
+  },
+  {
+    "sentence_id": 11,
+    "aguaruna": "Kuitamkami aenst pegkeg aina nunu.",
+    "reference_spanish": "Mantener buenas relaciones con gente positiva.",
+    "gaia_spanish": "Aquellas personas que son bien cuidadas son buenas.",
+    "precision": 0.7078035473823547,
+    "recall": 0.7424452304840088,
+    "f1": 0.7247107028961182
+  },
+  {
+    "sentence_id": 12,
+    "aguaruna": "See kuashat Tita tajame, ashi jujuu tsawantai tsentsakum jinkiutigmin.",
+    "reference_spanish": "Me gustaría darles las gracias a todos los que salieron a votar hoy.",
+    "gaia_spanish": "Muchas gracias, Tito, por tu apoyo durante todos estos días para que podamos progresar.",
+    "precision": 0.7100620269775391,
+    "recall": 0.6989601850509644,
+    "f1": 0.7044673562049866
+  },
+  {
+    "sentence_id": 13,
+    "aguaruna": "Wekaetainum shiig suwe wajas amae.",
+    "reference_spanish": "Estaba muy oscuro en el callejón.",
+    "gaia_spanish": "En el camino estaba muy oscuro.",
+    "precision": 0.872340202331543,
+    "recall": 0.8530881404876709,
+    "f1": 0.8626067638397217
+  },
+  {
+    "sentence_id": 14,
+    "aguaruna": "Takajai kuntinu iyash kuitamku takatai aina nunak kuntin aina nuna ampin mamikjamua nunak (Iwainakchattajai waji ampikita nunak, dekas kuntinu ampin iniasta).",
+    "reference_spanish": "Sólo uso cosméticos recomendados por nuestro veterinario (no voy a citar nombres de marcas, mejor consulte con su veterinario).",
+    "gaia_spanish": "Me dedico a preparar los remedios especiales de origen animal, que sirven para el cuidado del cuerpo. (No revelaré de qué remedio se trata; deben preguntar por el auténtico remedio de animal).",
+    "precision": 0.6996985673904419,
+    "recall": 0.7218131422996521,
+    "f1": 0.7105838656425476
+  },
+  {
+    "sentence_id": 15,
+    "aguaruna": "Egiptok tuke ah wajakui nuwigtush tuke nigki atinai nugkanchijin nagkatkamun dukujig.",
+    "reference_spanish": "Egipto siempre ha sido y siempre será la madre del mundo.",
+    "gaia_spanish": "El egipcio siempre fue así, y además su madre se quedará para siempre sola en los confines de su propia tierra.",
+    "precision": 0.7277828454971313,
+    "recall": 0.7827266454696655,
+    "f1": 0.7542554140090942
+  },
+  {
+    "sentence_id": 16,
+    "aguaruna": "Wika anentaimjai patasa yutai puju shiig juakdaiwai ekemtai shuwiknujai, tuja makimakichik waketaiyai.",
+    "reference_spanish": "Yo creo que la mesa blanca combina mejor con el sofá negro, pero es cuestión de gusto.",
+    "gaia_spanish": "Pienso que al sentarse a la mesa con franqueza se logran buenos acuerdos, y después cada quien vuelve a lo suyo.",
+    "precision": 0.6839945316314697,
+    "recall": 0.7021066546440125,
+    "f1": 0.6929322481155396
+  },
+  {
+    "sentence_id": 17,
+    "aguaruna": "Ashitíi jaanchik awi tukee sumauji waji sujataya nuwig mijan nagkaeja minag nuwig.",
+    "reference_spanish": "Todos hemos comprado ropa en las mismas tiendas durante años.",
+    "gaia_spanish": "Toda la mercancía de ropa que siempre compramos allá para la venta está justo en ese mismo lugar, sobre la viga del año pasado.",
+    "precision": 0.7146691083908081,
+    "recall": 0.7605030536651611,
+    "f1": 0.7368740439414978
+  },
+  {
+    "sentence_id": 18,
+    "aguaruna": "Dekaapamu kajimatkipa nuniakum anenjukam material tsupigta.",
+    "reference_spanish": "No se olvide de medir y cortar el material previamente.",
+    "gaia_spanish": "No olvides la instrucción, y cuelga el material designado.",
+    "precision": 0.786004364490509,
+    "recall": 0.7835787534713745,
+    "f1": 0.7847896814346313
+  },
+  {
+    "sentence_id": 19,
+    "aguaruna": "Bakichik tsawantai asauwai muun nuweejai ikam pujamuji.",
+    "reference_spanish": "Había una vez un matrimonio que vivía en el campo.",
+    "gaia_spanish": "Un día, vivió en la selva con una gran mujer.",
+    "precision": 0.7849053740501404,
+    "recall": 0.7860074043273926,
+    "f1": 0.7854560017585754
+  },
+  {
+    "sentence_id": 20,
+    "aguaruna": "Nuwaush anentaimas ekeme: ¿Niish waji titasag time?",
+    "reference_spanish": "Ella se sentó allí pensando: ¿Qué podría haber querido decir él?",
+    "gaia_spanish": "La mujer pensaba para sus adentros: '¿Y él, qué dirá?'",
+    "precision": 0.7751680016517639,
+    "recall": 0.7812710404396057,
+    "f1": 0.7782076001167297
+  },
+  {
+    "sentence_id": 21,
+    "aguaruna": "Daseenum wekaemja wekaetainmak egketjai.",
+    "reference_spanish": "Estoy dentro del avión todavía.",
+    "gaia_spanish": "Sigo el sendero ancestral de nuestros antepasados.",
+    "precision": 0.7180823087692261,
+    "recall": 0.7510843276977539,
+    "f1": 0.7342126369476318
+  },
+  {
+    "sentence_id": 22,
+    "aguaruna": "Dekatkauk, takusta tuu jikattsames diyaame nunuu atsumamujum disam.",
+    "reference_spanish": "Primero, haga una lista de las prioridades en base a sus necesidades.",
+    "gaia_spanish": "Primero, mantén tu compromiso, para que consideres bien lo que ustedes necesitan.",
+    "precision": 0.7072169780731201,
+    "recall": 0.7240890264511108,
+    "f1": 0.7155535817146301
+  },
+  {
+    "sentence_id": 23,
+    "aguaruna": "Dekaskenmak ataktu wakitkittajai Hurghada jegan.",
+    "reference_spanish": "Definitivamente regresaré cuando vuelva a Hurghada.",
+    "gaia_spanish": "Realmente, volveré de nuevo a Hurghada.",
+    "precision": 0.8787246346473694,
+    "recall": 0.8621873259544373,
+    "f1": 0.8703774213790894
+  },
+  {
+    "sentence_id": 24,
+    "aguaruna": "2: ujumak ajuntuata yumimitu puju wiya bichatnunum, dukikam ukukata wiya yumiska nunu nanagti. Egketuata Kuchi pagae wok tutai nui najukti betek.",
+    "reference_spanish": "2: Agregar un puñado de azúcar cristalizada en aceite frío y luego hervir el aceite hasta que se caramelice. Poner las costillas en el wok hasta que se cocinen uniformemente.",
+    "gaia_spanish": "2: Añade un poco de dulce a la manteca fría y después ponla a derretir con agua. Luego, coloca la costilla de cerdo en la olla para que se cocine de manera uniforme.",
+    "precision": 0.789445161819458,
+    "recall": 0.7926212549209595,
+    "f1": 0.7910299897193909
+  },
+  {
+    "sentence_id": 25,
+    "aguaruna": "• Diwi pujamunum diwimkagtamu (IBI) tsagkugnayamu pujamu tutitag wajastamatai mumiashkush mesegmatai.",
+    "reference_spanish": "• Exención del Impuesto sobre Bienes Inmuebles (IBI) para pymes cuyas instalaciones se hayan visto dañadas parcialmente o en su totalidad.",
+    "gaia_spanish": "La condonación de la deuda (IBI) se convierte en un gravamen al momento de su vencimiento total.",
+    "precision": 0.7090625166893005,
+    "recall": 0.6643559336662292,
+    "f1": 0.6859816312789917
+  },
+  {
+    "sentence_id": 26,
+    "aguaruna": "Peegmagbauwa nunim tsekeniu, nuniak bukuitamun yujagkim ema ukukui.",
+    "reference_spanish": "Se lanzó por encima de la cerca, dejando una nube de polvo detrás.",
+    "gaia_spanish": "El águila despegó súbitamente, levantando una polvareda.",
+    "precision": 0.7491706013679504,
+    "recall": 0.7718570232391357,
+    "f1": 0.7603446841239929
+  },
+  {
+    "sentence_id": 27,
+    "aguaruna": "<wajii suman:> Ayu, jaasta, juwimpash, XF15C3999A takakjam.",
+    "reference_spanish": "<cliente:> A ver, sí, aquí lo tengo, XF15C3999A.",
+    "gaia_spanish": "Bueno, por favor, regístreme el XF15C3999A aquí mismo.",
+    "precision": 0.7434413433074951,
+    "recall": 0.739136278629303,
+    "f1": 0.74128258228302
+  },
+  {
+    "sentence_id": 28,
+    "aguaruna": "Ii iwainmamaun dekaawag shiig juwaktinme takumek, wajuku papii atii timauwaita nunuke aintsam takasta.",
+    "reference_spanish": "Para que estén contentos con el resultado, tienen que escoger el pegamento correcto para el tipo de papel tapiz.",
+    "gaia_spanish": "Si al ver nuestro ejemplo crees que puedes hacerlo bien, entonces hazlo como es debido, tal como lo manda el documento.",
+    "precision": 0.6721872091293335,
+    "recall": 0.6820123791694641,
+    "f1": 0.6770641207695007
+  },
+  {
+    "sentence_id": 29,
+    "aguaruna": "<Nuwa:> Nankin ataktu ikiyamui ~❄️",
+    "reference_spanish": "<Mujer:> Está nevando otra vez en Nankín hoy~❄️",
+    "gaia_spanish": "<Mujer:> Nankin está temblando de frío otra vez.",
+    "precision": 0.823802649974823,
+    "recall": 0.8068987727165222,
+    "f1": 0.8152630925178528
+  },
+  {
+    "sentence_id": 30,
+    "aguaruna": "Companiak najanamui kuashat aentsn ijuanja impresoras 3D wakesa diin aidau, puyatjus takau aidau emkami tusa impresionnun imanik akikchau aidau aiksag yupichu.",
+    "reference_spanish": "La compañía fue fundada por un grupo de entusiastas de las impresoras 3D, dedicados a desarrollar tecnologías de impresión más baratas y rápidas.",
+    "gaia_spanish": "Una compañía, con la colaboración de muchas personas, produce impresoras 3D para crear los objetos que se deseen y, con el fin de ayudar a los trabajadores esforzados, las impresiones que se realizan son de muy bajo costo y también fáciles de hacer.",
+    "precision": 0.7057325839996338,
+    "recall": 0.7463198304176331,
+    "f1": 0.7254589796066284
+  },
+  {
+    "sentence_id": 31,
+    "aguaruna": "Dekas papiiji diigmak, apaji nuwigtuu dukuji aina nunuka nii kuitaamaujig metekai. ",
+    "reference_spanish": "Desde el punto de vista legal, él tiene los mismos derechos parentales que ella. ",
+    "gaia_spanish": "Ciertamente, como dice el libro, los padres son los mismos que lo cuidan.",
+    "precision": 0.7303376793861389,
+    "recall": 0.7205298542976379,
+    "f1": 0.7254006266593933
+  },
+  {
+    "sentence_id": 32,
+    "aguaruna": "<A:> Ii dekaig nuna dekagmachu asa.",
+    "reference_spanish": "<A:> Porque nadie entiende lo inteligente que somos.",
+    "gaia_spanish": "Porque no sabemos de eso.",
+    "precision": 0.7694106101989746,
+    "recall": 0.6872994303703308,
+    "f1": 0.726040780544281
+  },
+  {
+    "sentence_id": 33,
+    "aguaruna": "Jutii jintinkagtuatasa papii umikbauwa nuwig uchijum atsumamu nuwigtuu unuimatnum jegantatabaujinig aujak unuimatmainai.",
+    "reference_spanish": "Nuestro plan de estudios puede adaptarse a las necesidades y objetivos en educación de su hijo.",
+    "gaia_spanish": "Para saber qué necesitan sus hijos para llegar a estudiar, nosotros podemos aprenderlo leyendo el texto que se ha preparado en ese mismo lugar.",
+    "precision": 0.6809717416763306,
+    "recall": 0.7177344560623169,
+    "f1": 0.6988700032234192
+  },
+  {
+    "sentence_id": 34,
+    "aguaruna": "<Aents dekaapkagtin:>Anentaimtsuji iniibauk makchauwai tusaik.",
+    "reference_spanish": "<admin:>No es que pensemos que esas preguntas sean malas.",
+    "gaia_spanish": "El Sabio: Preguntar sin pensar es incorrecto.",
+    "precision": 0.6896986365318298,
+    "recall": 0.6469425559043884,
+    "f1": 0.6676367521286011
+  },
+  {
+    "sentence_id": 35,
+    "aguaruna": "Ayu, awetugta tikish yutai inagkamam nunu.",
+    "reference_spanish": "Claro, mándame el resto de platillos que prepares.",
+    "gaia_spanish": "Bien, manda esa otra comida cocida.",
+    "precision": 0.7451845407485962,
+    "recall": 0.7225562930107117,
+    "f1": 0.7336960434913635
+  },
+  {
+    "sentence_id": 36,
+    "aguaruna": "Amek anentamsam buñuelo de patatas inajut unuimamainaitme.",
+    "reference_spanish": "Puedes aprender a hacer buñuelos de patatas por tu cuenta.",
+    "gaia_spanish": "Si quieres, puedes aprender a preparar buñuelos de patata.",
+    "precision": 0.8833556175231934,
+    "recall": 0.8774501085281372,
+    "f1": 0.8803929686546326
+  },
+  {
+    "sentence_id": 37,
+    "aguaruna": "¿Imanikag atsusme utujibauk Aymeric wantinkau nii wainchamak tuja wainkatsah dakitamu, nagkabaunum makchaun anentaisau asa nina pachisa?",
+    "reference_spanish": "¿No había sido demasiado distraída para que Aymeric apareciera así sin que ella lo viera venir o que no tuviera tiempo de evitar la desagradable proximidad de aquel que ella había juzgado desde lejos como arrogante?",
+    "gaia_spanish": "¿Cómo es que no te importó que Aymeric se presentara sin que nadie lo viera y que se rechazara ese hecho, solo porque pensabas en él sin considerar a nadie en público?",
+    "precision": 0.7539964914321899,
+    "recall": 0.7031390070915222,
+    "f1": 0.7276802659034729
+  },
+  {
+    "sentence_id": 38,
+    "aguaruna": "<Yixin:>Jaha, ajuinawai, tujash ashii anagmakbau ainawai.",
+    "reference_spanish": "<Yixin:> Sí, sí tiene, pero ya están todos comprometidos.",
+    "gaia_spanish": "<Yixin:>Sí, hay, pero ya todos están apartados.",
+    "precision": 0.9434689879417419,
+    "recall": 0.9101234078407288,
+    "f1": 0.9264962673187256
+  },
+  {
+    "sentence_id": 39,
+    "aguaruna": "Daseenum chicham ujanitaiya nuwi awetugta. Jujuna pachisan kuwashat ujamainaitjame eteeja ujanitaiya nuwi.",
+    "reference_spanish": "Envíame un correo. Puedo darte más información sobre un servicio postal.",
+    "gaia_spanish": "Envía allá el mensaje ancestral. Sobre esto, puedo contarte mucho de lo selecto que se dijo allí.",
+    "precision": 0.73060542345047,
+    "recall": 0.7666059136390686,
+    "f1": 0.7481728196144104
+  },
+  {
+    "sentence_id": 40,
+    "aguaruna": "Wii juwaktatjai ditajai, ayujattajai antsanuk wasugkamattai ditajai atum waketkumin.",
+    "reference_spanish": "Yo me quedaré con ellos, les daré de comer y de cenar, y jugaré con ellos hasta que ustedes vuelvan a casa.",
+    "gaia_spanish": "Iré a acompañarlos y a jugar con ellos cuando ustedes regresen.",
+    "precision": 0.8192168474197388,
+    "recall": 0.8007093667984009,
+    "f1": 0.8098573684692383
+  },
+  {
+    "sentence_id": 41,
+    "aguaruna": "Wika atumnak emenantsa diyajime.",
+    "reference_spanish": "Mis mejores deseos para todos.",
+    "gaia_spanish": "Yo los menosprecio.",
+    "precision": 0.696049690246582,
+    "recall": 0.6932161450386047,
+    "f1": 0.6946300864219666
+  },
+  {
+    "sentence_id": 42,
+    "aguaruna": "Duoduok kuwashat zanahorian tuke tsawantai yuu wajakui, tujash tsakatush aajakui nuwigtuu tsakat dekapmamá wajakui piipish asa.",
+    "reference_spanish": "Duoduo comía muchas zanahorias todos los días, pero todavía era muy pequeño y siempre se sentía inferior por su estatura.",
+    "gaia_spanish": "El duoduok se alimenta de mucha zanahoria todos los días, pero como todavía es una cría, se ve bastante pequeño.",
+    "precision": 0.8024576306343079,
+    "recall": 0.7942135334014893,
+    "f1": 0.7983143329620361
+  },
+  {
+    "sentence_id": 43,
+    "aguaruna": "Wemajai kampatuma iwainmamainum aiksanuk wetatjai juju mijantinish pegkejan dutikaina nui, tuke shiig pegkeg au agme.",
+    "reference_spanish": "Ya he ido a tres conciertos y por supuesto que iré de nuevo al concierto benéfico este año, siempre tiene el mejor ambiente.",
+    "gaia_spanish": "Así como fui a la tercera feria, también iré a este puesto donde hacen cosas excelentes; siempre son de lo mejor.",
+    "precision": 0.7592273354530334,
+    "recall": 0.7372589707374573,
+    "f1": 0.7480819225311279
+  },
+  {
+    "sentence_id": 44,
+    "aguaruna": "Diipasam dawem kugtujum awagkita dutikakum yapajiam takasata.",
+    "reference_spanish": "Regresa lentamente a la posición inicial y haz lo mismo con el otro lado.",
+    "gaia_spanish": "Empújalo despacio con el pie para regresarlo, y luego acomódalo.",
+    "precision": 0.6821770071983337,
+    "recall": 0.7126050591468811,
+    "f1": 0.697059154510498
+  },
+  {
+    "sentence_id": 45,
+    "aguaruna": "Tsawan 14: Napinak wainkajai. Wisha umintsatjai. Jegajui jemag hora asan waketkitjai tijai. ¡Wakeejusan dekapeajai yutain dekas shiig pegkejan yuwatatajai nunikan té michatnun uwagtatajai!",
+    "reference_spanish": "Día 14: Encontré la serpiente. Empaqué mis cosas. Planeé el viaje de regreso a casa en dos horas. ¡Estoy ansioso por comer comida de verdad y tomar un té helado!",
+    "gaia_spanish": "Día 14: Vi a Napinak. Yo también me voy a alistar. Le dije que ya me regreso porque en mi casa es hora de comer. ¡Qué ganas! Siento que voy a comer algo riquísimo, y después me tomaré un té para no sentirme tan lleno.",
+    "precision": 0.7099805474281311,
+    "recall": 0.7348641157150269,
+    "f1": 0.7222080230712891
+  },
+  {
+    "sentence_id": 46,
+    "aguaruna": "<B:> ¿Tuuwa?",
+    "reference_spanish": "<B:> ¿Cuál?",
+    "gaia_spanish": "¿Cuál?",
+    "precision": 0.9297587871551514,
+    "recall": 0.7871431112289429,
+    "f1": 0.8525277376174927
+  },
+  {
+    "sentence_id": 47,
+    "aguaruna": "Gobierno aina duka batsatkamunum ekeemi takastatabaunmak apu wajasa eemta nuna dekau amainai uweja bakichik amum mijan takastina nuna.",
+    "reference_spanish": "Muchos partidos, especialmente los del gobierno, consideran que se trata de un capital increíblemente valioso mientras intenta dirigir el país durante los próximos cinco años.",
+    "gaia_spanish": "El gobierno ha dispuesto que para ocupar el cargo de autoridad en la comunidad, es requisito haber trabajado durante seis años.",
+    "precision": 0.7423830628395081,
+    "recall": 0.7145937085151672,
+    "f1": 0.7282233834266663
+  },
+  {
+    "sentence_id": 48,
+    "aguaruna": "Witjai amina wakesan diyaunuk.",
+    "reference_spanish": "Yo soy tu mayor fan.",
+    "gaia_spanish": "Yo te quiero.",
+    "precision": 0.7713069319725037,
+    "recall": 0.77109694480896,
+    "f1": 0.7712019085884094
+  },
+  {
+    "sentence_id": 49,
+    "aguaruna": "Bishuk yawa tagkumamu aents sumainawai jeen apusatatus nujai betekai.",
+    "reference_spanish": "Los gatos están entre las mascotas domésticas que más personas compran para mantener en casa.",
+    "gaia_spanish": "La gente compra gatos y perros domesticados para tenerlos en casa, ya que ese es su propósito.",
+    "precision": 0.7420276403427124,
+    "recall": 0.7433729767799377,
+    "f1": 0.7426996827125549
+  },
+  {
+    "sentence_id": 50,
+    "aguaruna": "Nuwa muntsugta yapi kapa wajasme, Aymeric diisme nuniak minash wakejuntsuak tusa anentaimsau, nui senchi juki nagkamu pakijintan.",
+    "reference_spanish": "Mientras los pómulos de la joven se sonrojaban, Aymeric vislumbró ese primer rayo de esperanza que, en adelante, le daría el valor para cortejarla e ignorar su propio miedo a un rechazo mordaz.",
+    "gaia_spanish": "La joven se sonrojó al ver a Aymeric, pensando que él tampoco la deseaba, y en ese momento agarró con fuerza a su primer amor.",
+    "precision": 0.7367852926254272,
+    "recall": 0.6925379037857056,
+    "f1": 0.7139767408370972
+  },
+  {
+    "sentence_id": 51,
+    "aguaruna": "Inagnamu dekaamati ajutjamui imataishkam.",
+    "reference_spanish": "Tenemos los últimos métodos de análisis y diagnóstico.",
+    "gaia_spanish": "Lo último también tiene sabiduría.",
+    "precision": 0.6675835847854614,
+    "recall": 0.6726412177085876,
+    "f1": 0.6701028943061829
+  },
+  {
+    "sentence_id": 52,
+    "aguaruna": "- ¿Makmamtin dekapmamtsumek?",
+    "reference_spanish": "- ¿Te sientes culpable?",
+    "gaia_spanish": "¿Cuántos has contado?",
+    "precision": 0.7634406685829163,
+    "recall": 0.7523720860481262,
+    "f1": 0.7578659057617188
+  },
+  {
+    "sentence_id": 53,
+    "aguaruna": "Kajimatkipa zapatjum paka iyash umuchiamu takat takaamunum atsumtatam nunuu.",
+    "reference_spanish": "No te olvides que necesitas zapatos planos para el entrenamiento de peso.",
+    "gaia_spanish": "No te olvides de tus zapatos de trabajo, los necesitarás para protegerte del suelo en la faena.",
+    "precision": 0.7577354311943054,
+    "recall": 0.8199326395988464,
+    "f1": 0.7876079678535461
+  },
+  {
+    "sentence_id": 54,
+    "aguaruna": "Waji segaamume nuka umisam atsui.",
+    "reference_spanish": "El contenido que solicitaste desafortunadamente no está disponible.",
+    "gaia_spanish": "No tengo a la mano lo que ustedes piden.",
+    "precision": 0.6528365015983582,
+    "recall": 0.6618848443031311,
+    "f1": 0.6573295593261719
+  },
+  {
+    "sentence_id": 55,
+    "aguaruna": "¡Pegkeg anentaimsaume tanish ajaka awi, wishakam aiksanuk takastajai tusan anentaimjai!",
+    "reference_spanish": "¡Buena idea la pared de plantas, voy a tener que intentar eso también!",
+    "gaia_spanish": "¡Fíjense bien en ese trabajo de la pared, porque pienso hacer uno igual!",
+    "precision": 0.7590465545654297,
+    "recall": 0.7718978524208069,
+    "f1": 0.765418291091919
+  },
+  {
+    "sentence_id": 56,
+    "aguaruna": "Lola 14 mijan ajamu waji ima pegkeg aidau agaja takakbaujig:",
+    "reference_spanish": "La lista de las cosas más importantes según Lola, de 14 años:",
+    "gaia_spanish": "Lola, de 14 años, enumera las cosas muy buenas de su trabajo:",
+    "precision": 0.7893375754356384,
+    "recall": 0.823710560798645,
+    "f1": 0.8061578869819641
+  },
+  {
+    "sentence_id": 57,
+    "aguaruna": "<A:> Shiig dekapmamtsujai.",
+    "reference_spanish": "<A:> No me siento muy bien.",
+    "gaia_spanish": "No entiendo muy bien.",
+    "precision": 0.8483667373657227,
+    "recall": 0.7352141737937927,
+    "f1": 0.787747859954834
+  },
+  {
+    "sentence_id": 58,
+    "aguaruna": "¿Dakumja daseenum iwainamua nuwish segamainkaitag?",
+    "reference_spanish": "¿Puedo pedir en línea?",
+    "gaia_spanish": "¿Puedo pedir un dibujo antiguo como muestra?",
+    "precision": 0.8314177393913269,
+    "recall": 0.9001914262771606,
+    "f1": 0.8644388914108276
+  },
+  {
+    "sentence_id": 59,
+    "aguaruna": "Papii lapis takastinuk, ima papii anugtaijaig takasta, materiala nujai takamainuk aikawaipa.",
+    "reference_spanish": "Para el papel tapiz, aplique solo pegamento en la pared, no en el material directamente.",
+    "gaia_spanish": "Para el trabajo con papel y lápiz, usa el documento adjunto y no prohíbas los materiales de trabajo.",
+    "precision": 0.7676726579666138,
+    "recall": 0.7741481065750122,
+    "f1": 0.7708967924118042
+  },
+  {
+    "sentence_id": 60,
+    "aguaruna": "Kashi wajasbaunum Swati kanutaijin nigki pujume.",
+    "reference_spanish": "Era de noche y Swati estaba sola en su habitación.",
+    "gaia_spanish": "Anoche, Swati se encontraba solo en su habitación.",
+    "precision": 0.8824961185455322,
+    "recall": 0.8751989603042603,
+    "f1": 0.8788323998451233
+  },
+  {
+    "sentence_id": 61,
+    "aguaruna": "Uno Suro yabai kashia juka niinu amainai tujas viernestinchakam iyaawai.",
+    "reference_spanish": "Esta noche es la Noche del Uno Suro que también cae en viernes.",
+    "gaia_spanish": "Esta noche, esto le pertenece a Uno Suro, pero solo hasta el viernes.",
+    "precision": 0.8220125436782837,
+    "recall": 0.8217340707778931,
+    "f1": 0.8218733072280884
+  },
+  {
+    "sentence_id": 62,
+    "aguaruna": "Miyan 1857tin, maaniamu Delhi nugkamun nagkamdau.",
+    "reference_spanish": "Era el año 1857, cuando la rebelión se desató en Delhi.",
+    "gaia_spanish": "En mayo de 1857, estalló la rebelión en Delhi.",
+    "precision": 0.860382616519928,
+    "recall": 0.8437055349349976,
+    "f1": 0.8519624471664429
+  },
+  {
+    "sentence_id": 63,
+    "aguaruna": "Tuwee, Apauchik wetii tusa tawai.",
+    "reference_spanish": "De todos modos, papá no quiere que vayas.",
+    "gaia_spanish": "¡Cuidado!, dice que Nuestro Padre se irá.",
+    "precision": 0.709710955619812,
+    "recall": 0.7252427339553833,
+    "f1": 0.7173927426338196
+  },
+  {
+    "sentence_id": 64,
+    "aguaruna": "18 mijan ajuinau jau aina nunua nuwigtuushka aan dukap ajuinau.",
+    "reference_spanish": "Pacientes de 18 años o más.",
+    "gaia_spanish": "Durante 18 años sembraron mal, por eso ahora sembraron mucho maíz.",
+    "precision": 0.6437106132507324,
+    "recall": 0.6974210143089294,
+    "f1": 0.6694902777671814
+  },
+  {
+    "sentence_id": 65,
+    "aguaruna": "Imaanika dekapeasji takasa kuichig juki sumaku amuna nunuu ima kuashtai takasa juna nujaig dekas diyaamak.",
+    "reference_spanish": "A veces no nos damos cuenta de que nuestros gastos son mayores que nuestros salarios.",
+    "gaia_spanish": "De tanto esforzarnos trabajando, ocupados con el dinero de las compras y las entregas, y en tantas otras cosas, por eso mismo no vemos con claridad la realidad de esta persona.",
+    "precision": 0.6667391657829285,
+    "recall": 0.727409303188324,
+    "f1": 0.6957541108131409
+  },
+  {
+    "sentence_id": 66,
+    "aguaruna": "Dekatkauk nanchikjunak jiju puyaijai yakagmajai nuniakug kuwemjamjai.",
+    "reference_spanish": "Primero le limé las uñas y la cepillé.",
+    "gaia_spanish": "Primero, lleno de temor y cólera, arrojé la lanza de hierro.",
+    "precision": 0.685999870300293,
+    "recall": 0.7292142510414124,
+    "f1": 0.7069472670555115
+  },
+  {
+    "sentence_id": 67,
+    "aguaruna": "Antukia, jujuu aentsuk waita. Antugkaipa, waagki tamak, tukee tsanumas etsegbau awai eteeja ujanitaya nuwig.",
+    "reference_spanish": "Oye, esta persona es estafadora. No les creas, porque al final, siempre hay una intención oculta con los servicios postales.",
+    "gaia_spanish": "Escucha, esa persona es mentirosa. No le hagas caso, porque lo que cuenta es el mismo cuento de siempre para engañar, una historia que se narra aquí como advertencia.",
+    "precision": 0.723936915397644,
+    "recall": 0.7635453939437866,
+    "f1": 0.7432138323783875
+  },
+  {
+    "sentence_id": 68,
+    "aguaruna": "¿Antugmakum ii takataijin chichaamu ama dusha?",
+    "reference_spanish": "¿Has oído los últimos rumores en la oficina?",
+    "gaia_spanish": "¿Entendiste lo que hablamos en el trabajo?",
+    "precision": 0.763360857963562,
+    "recall": 0.774739682674408,
+    "f1": 0.7690081596374512
+  },
+  {
+    "sentence_id": 69,
+    "aguaruna": "<A:>¿Ampijatnush waji time yamai kashikmasash?",
+    "reference_spanish": "<A:> ¿Qué dijo el médico esta mañana?",
+    "gaia_spanish": "¿Qué dijo el médico para mañana?",
+    "precision": 0.9318116307258606,
+    "recall": 0.8240920305252075,
+    "f1": 0.8746476769447327
+  },
+  {
+    "sentence_id": 70,
+    "aguaruna": "Awai ima kugkuima kagkegak yujaina duke yujastinme tusa najanamu, jujuig shiig sinchi anuntuk yujau ainawai, tujash aneetsuk imaanika sinchi wekaesati tichamu aig.",
+    "reference_spanish": "En parte, la autopista es la causa, porque la gente conduce muy rápido en la autopista y no se dan cuenta de que su vehículo no puede soportar esa velocidad.",
+    "gaia_spanish": "La gran tortuga fue creada para que los valientes vivan en comunidad; ellos tienen un espíritu bueno y muy fuerte, pero no se les permite actuar con arrogancia ni falta de consideración.",
+    "precision": 0.6885954141616821,
+    "recall": 0.7049216032028198,
+    "f1": 0.6966628432273865
+  },
+  {
+    "sentence_id": 71,
+    "aguaruna": "Tabau awai yabai kashia juka ajantusa diyaamu yaakat datsa batsata nudau.",
+    "reference_spanish": "Se dice que esta noche se considera sagrada para el pueblo javanés.",
+    "gaia_spanish": "Esta noche, la historia trata sobre el respeto que muestran los jóvenes de la ciudad.",
+    "precision": 0.7417548894882202,
+    "recall": 0.7353898882865906,
+    "f1": 0.7385587096214294
+  },
+  {
+    "sentence_id": 72,
+    "aguaruna": "Kanutaik shiig muntae antsag shiig jaipjamu, jujuwai pegkegnum juwakuitag duka.",
+    "reference_spanish": "La habitación era muy grande y limpia, una de las mejores en las que me he quedado.",
+    "gaia_spanish": "Lo que en el sueño se ve abundante y se presagia como bueno, eso es el fruto que se recoge de buena tierra.",
+    "precision": 0.6797758936882019,
+    "recall": 0.6777904033660889,
+    "f1": 0.6787816882133484
+  },
+  {
+    "sentence_id": 73,
+    "aguaruna": "Tsuwapaamu utsamu: ame pujamugmin tsuwamas takainak taawagtatui.",
+    "reference_spanish": "Eliminación de escombros: Un equipo de evacuación trabajará en su zona lo antes posible.",
+    "gaia_spanish": "El problema viene de tu forma de ser; por andar creando conflictos, te van a llegar más problemas.",
+    "precision": 0.648451566696167,
+    "recall": 0.642582893371582,
+    "f1": 0.6455038785934448
+  },
+  {
+    "sentence_id": 74,
+    "aguaruna": "Piipish chikaakum tupikaakum nagkamata jujuu tewa tukumka wasugtaiya nunuu kampatumaa tenteata, nuniakum tikishchakam takastaa.",
+    "reference_spanish": "Comience a correr a pasos cortos a lo largo del campo de juego, de un lado a otro, y haga al menos tres vueltas, añadiendo un ejercicio a la vez.",
+    "gaia_spanish": "Cuando el pajarito comience a piar y a brincar, de los que están jugando a la pelota, acorrala al tercero y después haz lo mismo con el siguiente.",
+    "precision": 0.6789535880088806,
+    "recall": 0.6680827736854553,
+    "f1": 0.6734743118286133
+  },
+  {
+    "sentence_id": 75,
+    "aguaruna": "Ijunja takatai jutijai",
+    "reference_spanish": "Sobre nuestro equipo",
+    "gaia_spanish": "Nuestra reunión de trabajo.",
+    "precision": 0.7583215236663818,
+    "recall": 0.7662187814712524,
+    "f1": 0.7622497081756592
+  },
+  {
+    "sentence_id": 76,
+    "aguaruna": "Tsawan 11: Nimpainuk katsunmain nimpantsui. Waji sujutaijuiyan aire acondicionadon ekemakjai. Bateriak kushat tsawan katsunjache.",
+    "reference_spanish": "Día 11: El calor se está volviendo insoportable. Tuve que encender el aire acondicionado en mi tienda. La batería me durará solo unos pocos días.",
+    "gaia_spanish": "Día 11: El calor era insoportable. Prendí el aire acondicionado de la tienda, pero la batería estaba gastada y no aguantó todo el día.",
+    "precision": 0.8449366688728333,
+    "recall": 0.8337512016296387,
+    "f1": 0.839306652545929
+  },
+  {
+    "sentence_id": 77,
+    "aguaruna": "<Nuwa:> Bichatua anin dekapmamjai, suwen najamtatawai 😷",
+    "reference_spanish": "<Mujer:> Parece que estoy por resfriarme. Tengo un leve dolor de garganta 😷",
+    "gaia_spanish": "Siento que me estoy resfriando, me va a doler la garganta. 😷",
+    "precision": 0.7867234349250793,
+    "recall": 0.7563329935073853,
+    "f1": 0.7712289094924927
+  },
+  {
+    "sentence_id": 78,
+    "aguaruna": "Nuwigtuu, aneaku ataa tarjeta kuwichik jitai takaam nunuu.",
+    "reference_spanish": "En segundo lugar, tenga cuidado con el uso de tarjetas de crédito.",
+    "gaia_spanish": "Señora, con cuidado, esa tarjeta es para que funcione el cajero automático.",
+    "precision": 0.7239966988563538,
+    "recall": 0.743157148361206,
+    "f1": 0.7334518432617188
+  },
+  {
+    "sentence_id": 79,
+    "aguaruna": "3) Yaya jinkine papii ausa nagkamamunmash.",
+    "reference_spanish": "3) Quién salió con quién después de la escuela.",
+    "gaia_spanish": "Y para empezar a estudiar, el libro es una buena ayuda.",
+    "precision": 0.6980699300765991,
+    "recall": 0.6838351488113403,
+    "f1": 0.690879225730896
+  },
+  {
+    "sentence_id": 80,
+    "aguaruna": "- Tuu pujuipa juka tuke pachiashmau amuekattawai.",
+    "reference_spanish": "- Deja de ser exagerado que en algún momento se va a acabar.",
+    "gaia_spanish": "No te quedes así, que esto caerá en el olvido para siempre.",
+    "precision": 0.6778911352157593,
+    "recall": 0.6739405393600464,
+    "f1": 0.6759100556373596
+  },
+  {
+    "sentence_id": 81,
+    "aguaruna": "Iyashim bukem inantaita, aiksamek bakum mena anu takuita ,nuniakum kuntujum untsuja anu dakuekam dawem mena anu antigta tikishim kagkagmeshkam.",
+    "reference_spanish": "Levanta la parte superior del cuerpo y la pierna izquierda al mismo tiempo mientras extiendes el brazo derecho hacia el pie izquierdo intentando tocar la rodilla o incluso la pantorrilla.",
+    "gaia_spanish": "Levante la cabeza y el brazo izquierdo. Luego, con el brazo derecho estirado, toque el pie izquierdo, y después la rodilla y la pierna de ese mismo lado.",
+    "precision": 0.7876960635185242,
+    "recall": 0.7818382978439331,
+    "f1": 0.7847562432289124
+  },
+  {
+    "sentence_id": 82,
+    "aguaruna": "Nuwigtuushkam, imaanikam chichakaipa nuwigtuu sukutin uwajaipa inagkaim.",
+    "reference_spanish": "Además, evite hablar mucho y beber té o café caliente para no tener problemas.",
+    "gaia_spanish": "Además, por eso no hables ni bebas lo que está caliente; déjalo.",
+    "precision": 0.7005952000617981,
+    "recall": 0.7029788494110107,
+    "f1": 0.7017850279808044
+  },
+  {
+    "sentence_id": 83,
+    "aguaruna": "Ciencias, matemáticas, nuwigtuu tikish aina nunuu unuimatnum jintiamunum ipaajatji daseenum unuimagtinme tusa.",
+    "reference_spanish": "Ofrecemos clases de ciencias, matemáticas, y otras materias en línea.",
+    "gaia_spanish": "Incluimos en el currículo educativo las materias de Ciencias y Matemáticas, así como otras similares, con el propósito de que aprendan sobre el mundo.",
+    "precision": 0.7288333177566528,
+    "recall": 0.8128044605255127,
+    "f1": 0.7685320377349854
+  },
+  {
+    "sentence_id": 84,
+    "aguaruna": "Alberto Garcia: IRPFya jujuu kuitan empresa akipa nuna diis emetjupattawai, ame akeejamu achattawai.",
+    "reference_spanish": "albertogarcia: El IRPF que te tiene que retener la empresa es el que te corresponda por tramo salarial, no el que tú quieras.",
+    "gaia_spanish": "Alberto García: La empresa se encargará de gestionar la retención del IRPF, tu sueldo no se verá afectado.",
+    "precision": 0.7506456971168518,
+    "recall": 0.7248249650001526,
+    "f1": 0.7375094294548035
+  },
+  {
+    "sentence_id": 85,
+    "aguaruna": "<Aents aminiig sumau:>Ajayi, ¿Tuwaita iwainmamu shiig waintasih?",
+    "reference_spanish": "<usuario:>Si es así, ¿cuáles son los ejemplos más conocidos?",
+    "gaia_spanish": "Amigo, ¿cuál se ve mejor?",
+    "precision": 0.7383052110671997,
+    "recall": 0.6844526529312134,
+    "f1": 0.7103597521781921
+  },
+  {
+    "sentence_id": 86,
+    "aguaruna": "Shiig aneasa etsegjai juju nantuntin nagkamsan takag nunu agente bancario al Banco Marburger.",
+    "reference_spanish": "Me complace anunciarles que este mes me incorporaré como agente bancario al Banco Marburg.",
+    "gaia_spanish": "Con mucha alegría les cuento que este mes empecé a trabajar como agente bancario en el Banco Marburger.",
+    "precision": 0.7891416549682617,
+    "recall": 0.8194032907485962,
+    "f1": 0.8039878010749817
+  },
+  {
+    "sentence_id": 87,
+    "aguaruna": "Iwantuktajai wii dekamujuiyan.",
+    "reference_spanish": "Les voy a dar un ejemplo de mi experiencia.",
+    "gaia_spanish": "Yo lo haré desaparecer con lo que sé.",
+    "precision": 0.693848192691803,
+    "recall": 0.706887423992157,
+    "f1": 0.7003071308135986
+  },
+  {
+    "sentence_id": 88,
+    "aguaruna": "Puyat tabau ajutme, dekapmajai antukua anin.",
+    "reference_spanish": "Es una sensación extraña, como si sintiera haber oído algo sin saber realmente qué es.",
+    "gaia_spanish": "Me dio un susto, fue como si hubiera escuchado algo.",
+    "precision": 0.7728880643844604,
+    "recall": 0.746812105178833,
+    "f1": 0.7596263289451599
+  },
+  {
+    "sentence_id": 89,
+    "aguaruna": "<B:> Jaha, anmamtin pujajai ¿wagka?",
+    "reference_spanish": "<B:> Sí, algo así. ¿Por qué?",
+    "gaia_spanish": "Sí, estoy bien, ¿por qué?",
+    "precision": 0.8490222692489624,
+    "recall": 0.7814227342605591,
+    "f1": 0.8138211369514465
+  },
+  {
+    "sentence_id": 90,
+    "aguaruna": "<B:> ¿Iwagmainkaitam?",
+    "reference_spanish": "<B:> ¿Crees que podrías arreglarlo?",
+    "gaia_spanish": "¿Estás bromeando?",
+    "precision": 0.8091305494308472,
+    "recall": 0.7204409837722778,
+    "f1": 0.7622144818305969
+  },
+  {
+    "sentence_id": 91,
+    "aguaruna": "Makichik uweja amum nantu weenawai jinkigmauk, tujash Marte matsatui.",
+    "reference_spanish": "Hacía cinco meses que habían salido, pero por fin estaban en Marte.",
+    "gaia_spanish": "Lleva cinco meses desaparecido, pero está con Marte.",
+    "precision": 0.810776948928833,
+    "recall": 0.7710358500480652,
+    "f1": 0.7904071807861328
+  },
+  {
+    "sentence_id": 92,
+    "aguaruna": "Ampiijatin iniiasta COVID-19 achimakaig tusa ampiimait ampiimamnum.",
+    "reference_spanish": "Consulte con su médico para una dosis de refuerzo de la vacuna para el COVID-19.",
+    "gaia_spanish": "El personal de salud acude al centro de salud para curar a los contagiados de COVID-19.",
+    "precision": 0.8013331294059753,
+    "recall": 0.7903515100479126,
+    "f1": 0.795804500579834
+  },
+  {
+    "sentence_id": 93,
+    "aguaruna": "Ajutjamui takaaku agkan pujusa takamain nuniaku ashi dekamu iwainmamkatatabau.",
+    "reference_spanish": "Ofrecemos un ambiente de trabajo gratificante donde podrá desarrollar todo su potencial.",
+    "gaia_spanish": "Al contar con un espacio propicio donde podamos trabajar tranquilamente, podremos demostrar todos nuestros conocimientos.",
+    "precision": 0.7656023502349854,
+    "recall": 0.7801724672317505,
+    "f1": 0.7728188037872314
+  },
+  {
+    "sentence_id": 94,
+    "aguaruna": "Awi kuwashat takaamu wainkattame waji tsawantai kashikmasmesh takamainaitme nunuu.",
+    "reference_spanish": "Allí encontrarás muchos ejercicios que puedes hacer por la mañana diariamente.",
+    "gaia_spanish": "Allá encontrarás mucho por hacer, un trabajo que podrás realizar cualquier día, incluso por la mañana.",
+    "precision": 0.7872517108917236,
+    "recall": 0.8255413174629211,
+    "f1": 0.8059420585632324
+  },
+  {
+    "sentence_id": 95,
+    "aguaruna": "Untsumkamu imajui ukumainaitme iina papijin web.",
+    "reference_spanish": "Puede reservar su cita aquí en nuestra página web.",
+    "gaia_spanish": "Puedes publicar en nuestra página web el anuncio que está allá.",
+    "precision": 0.7724202871322632,
+    "recall": 0.8140501976013184,
+    "f1": 0.7926890254020691
+  },
+  {
+    "sentence_id": 96,
+    "aguaruna": "¡Aanin asamtai mina kanaljui yunuumkata nuniakum pujutim yapajiaata!",
+    "reference_spanish": "¡Así que únete a mi canal y comienza tu viaje fitness!",
+    "gaia_spanish": "¡Por eso, viaja en mi canoa y así cambia tu forma de vivir!",
+    "precision": 0.7646126747131348,
+    "recall": 0.7880470752716064,
+    "f1": 0.776153028011322
+  },
+  {
+    "sentence_id": 97,
+    "aguaruna": "<A:>¿Shintagmek tepam?",
+    "reference_spanish": "<A:> ¿Estás despierta?",
+    "gaia_spanish": "¿Estás despierto?",
+    "precision": 0.9382381439208984,
+    "recall": 0.8191264867782593,
+    "f1": 0.8746457099914551
+  },
+  {
+    "sentence_id": 98,
+    "aguaruna": "Mina kanutaijuk nayantsa uwetus ame, ashii kanutaik nayantsa uwetus ame.",
+    "reference_spanish": "La habitación estaba frente al mar, todas las habitaciones daban al mar.",
+    "gaia_spanish": "Mi relato es la ribera del mar, y todo relato es la ribera del mar.",
+    "precision": 0.7435889840126038,
+    "recall": 0.7393009662628174,
+    "f1": 0.7414388656616211
+  },
+  {
+    "sentence_id": 99,
+    "aguaruna": "¡Etsa 5 p.m. wegai pujuta megkaekam taawaipa!",
+    "reference_spanish": "¡Estate ahí sobre las 5 p.m. y no llegues tarde!",
+    "gaia_spanish": "¡No vayas a faltar a las 5 p.m.!",
+    "precision": 0.860754132270813,
+    "recall": 0.8552991151809692,
+    "f1": 0.8580179214477539
+  },
+  {
+    "sentence_id": 100,
+    "aguaruna": "Eke eketainakua tempemakag chimpiju.",
+    "reference_spanish": "Estaban todos entumecidos de tanto estar sentados.",
+    "gaia_spanish": "En la banca, los pasajeros están recostados.",
+    "precision": 0.7424519062042236,
+    "recall": 0.7493222951889038,
+    "f1": 0.7458712458610535
+  },
+  {
+    "sentence_id": 101,
+    "aguaruna": "Examen susatnuk internetnum wamak etsegnaktatui.",
+    "reference_spanish": "Las páginas para el examen se anunciarán pronto.",
+    "gaia_spanish": "El resultado del examen se publicará pronto en internet.",
+    "precision": 0.8506773114204407,
+    "recall": 0.8658934831619263,
+    "f1": 0.8582178950309753
+  },
+  {
+    "sentence_id": 102,
+    "aguaruna": "Takaakmesh aan sinchik takabaitsume.",
+    "reference_spanish": "Podrías simplemente ejercitarte sin excederte.",
+    "gaia_spanish": "Aunque trabajas allá, no trabajas duro.",
+    "precision": 0.6855491399765015,
+    "recall": 0.6600765585899353,
+    "f1": 0.6725717782974243
+  },
+  {
+    "sentence_id": 103,
+    "aguaruna": "Papii agagbauk yapajiau imperiush wajuk depetmamkag pujawa nuna, tujash ¿Arshad pujau nii dekaskea nunuu tabau nuwigtuu yama ataktuu agau pujut nagkaemakiuwa nuna?",
+    "reference_spanish": "La carta cambió el juego de poder a lo largo del imperio, pero ¿estaban Arshad y su mensaje en lo cierto, o se estaba reescribiendo la historia?",
+    "gaia_spanish": "La historia escrita trata sobre la caída y transformación de los imperios, pero, ¿acaso la verdad que él proclamó en un principio ha sido reescrita ahora, superando así aquel modo de vida anterior?",
+    "precision": 0.7335177063941956,
+    "recall": 0.7506385445594788,
+    "f1": 0.7419793605804443
+  },
+  {
+    "sentence_id": 104,
+    "aguaruna": "Dakaka dikmaa, wainkaju uchi egketun.",
+    "reference_spanish": "Cuando lo abrieron, encontraron un hermoso bebé dentro del pepino.",
+    "gaia_spanish": "Al mirar, encontraron al niño puesto adentro.",
+    "precision": 0.8085035681724548,
+    "recall": 0.7736747860908508,
+    "f1": 0.7907058000564575
+  },
+  {
+    "sentence_id": 105,
+    "aguaruna": "Tujash apauchi, mina dukuchjuk wijai Shimla wemainajama.",
+    "reference_spanish": "Pero papá, la abuela puede venir conmigo a Shimla.",
+    "gaia_spanish": "Pero el jefe, mi mamá y yo íbamos con Shimla.",
+    "precision": 0.7920295000076294,
+    "recall": 0.8141492009162903,
+    "f1": 0.8029369711875916
+  },
+  {
+    "sentence_id": 106,
+    "aguaruna": "Mina apan aidau ayu wetaa tujutchagtatui.",
+    "reference_spanish": "Mis papás no me van a dar permiso.",
+    "gaia_spanish": "Mis parientes no creerán que el viaje vaya a salir bien.",
+    "precision": 0.7530965805053711,
+    "recall": 0.7683629989624023,
+    "f1": 0.7606531977653503
+  },
+  {
+    "sentence_id": 107,
+    "aguaruna": "<A:>Anna Pavlovna, tijutta, ¿Anu datsa shiigbauchia dusha yaita?",
+    "reference_spanish": "<A:> Anna Pavlovna, dígame, ¿quién es ese joven tan guapo?",
+    "gaia_spanish": "Anna Pavlovna, dígame, ¿quién es ese joven tan bien parecido?",
+    "precision": 0.9489941596984863,
+    "recall": 0.8877894878387451,
+    "f1": 0.9173721075057983
+  },
+  {
+    "sentence_id": 108,
+    "aguaruna": "Mina anentaig kakaime shiig aneak aiksanuk dekapmamjamjai yapig sukutak kapa wajasun.",
+    "reference_spanish": "Mi corazón latía más rápido de emoción y sentí mis mejillas más calientes y rojas.",
+    "gaia_spanish": "Aunque en mi corazón siento un amor muy fuerte, me doy cuenta de que mi rostro se calienta y enrojece.",
+    "precision": 0.6979949474334717,
+    "recall": 0.7068126201629639,
+    "f1": 0.702376127243042
+  },
+  {
+    "sentence_id": 109,
+    "aguaruna": "Amekesh jega kafejum inagkata nunikam ¡ukusta kuwichik mil euros ama ninuu yajaneas jaamunum nuniashkush takatjuminiam jiinkum achiktin!",
+    "reference_spanish": "Hazte el café en casa y ¡ahorra esos mil y pico euros para una emergencia o para tu jubilación!",
+    "gaia_spanish": "¡Tú, prepara todo en la cafetería de la casa y luego esconde sus mil euros para que lo atrapes, ya sea poniéndolo en aprietos o cuando salga de su trabajo!",
+    "precision": 0.6924503445625305,
+    "recall": 0.7367597222328186,
+    "f1": 0.713918149471283
+  },
+  {
+    "sentence_id": 110,
+    "aguaruna": "YakatTrier ejapen, makichik anuntai muun kuichik aimnakun kasamkawagme ipak usumak weanui agkuantai.",
+    "reference_spanish": "Un camión de dinero fue robado el pasado jueves por la tarde en el centro de Trier.",
+    "gaia_spanish": "En el centro de la ciudad de Trier, robaron un gran aparato lleno de dinero, y los cuatro ladrones se fueron por la tarde.",
+    "precision": 0.7891741991043091,
+    "recall": 0.816270112991333,
+    "f1": 0.8024934530258179
+  },
+  {
+    "sentence_id": 111,
+    "aguaruna": "Waamkeush nuwigtuu kuwashat imátjamu asa, Ling de los Han papii agag jikiu, nuniak generales ainaujin inak tiu jinta aina nuwi suntak ishiakta tusa, corte estado de emergencian imajakti tusa.",
+    "reference_spanish": "Apurado y bajo presión, el emperador Ling de los Han emitió un edicto, ordenándole a los generales de todas sus rutas que mandaran tropas inmediatamente, para ayudar a aliviar el estado de emergencia de la corte.",
+    "gaia_spanish": "Como los problemas se agravaron rápidamente, Ling de los Han falsificó un documento. Inmediatamente después, convocó a sus generales y les ordenó que enviaran soldados a los caminos y que la corte declarara el estado de emergencia.",
+    "precision": 0.7675440311431885,
+    "recall": 0.7727615237236023,
+    "f1": 0.7701439261436462
+  },
+  {
+    "sentence_id": 112,
+    "aguaruna": "Takatjui megkaekattajapi tusanuk anentaimchamiajai, takatat yupichuchayi, nuwigtuu ewaekanuk takashmaijai.",
+    "reference_spanish": "Ya no tenía que preocuparme por perder mi empleo, el trabajo era sencillo, y no tenía que trabajar horas extras.",
+    "gaia_spanish": "Para no fracasar en mi trabajo no reflexioné, pero la tarea era tan insignificante que, al darme cuenta, no la hice.",
+    "precision": 0.7287864685058594,
+    "recall": 0.7537309527397156,
+    "f1": 0.7410488128662109
+  },
+  {
+    "sentence_id": 113,
+    "aguaruna": "¿Amesh ijunkau atatamek empresa con valores humanos tawa nuwish?",
+    "reference_spanish": "¿Quieres formar parte de una empresa con valores humanos?",
+    "gaia_spanish": "¿Formarás parte de esta empresa con valores humanos que se va a establecer?",
+    "precision": 0.8280103206634521,
+    "recall": 0.881166934967041,
+    "f1": 0.8537620306015015
+  },
+  {
+    "sentence_id": 114,
+    "aguaruna": "Jujuu agamua juwig, anentain ujajatkatatajai wajuk kuishkish kuitamainaita nuna pachisan.",
+    "reference_spanish": "En este artículo, quiero compartir algunas ideas para ahorrar dinero.",
+    "gaia_spanish": "En este pronunciamiento, voy a exponer mi pensamiento sobre cómo se pueden administrar los recursos.",
+    "precision": 0.7558610439300537,
+    "recall": 0.7831521034240723,
+    "f1": 0.7692645788192749
+  },
+  {
+    "sentence_id": 115,
+    "aguaruna": "¿Aush ipatbaukaik?",
+    "reference_spanish": "¿Fue eso un disparo?",
+    "gaia_spanish": "¿Y tú, sembraste?",
+    "precision": 0.749475359916687,
+    "recall": 0.7484545707702637,
+    "f1": 0.7489646077156067
+  },
+  {
+    "sentence_id": 116,
+    "aguaruna": "Wakebesemag pujamujin waituk shiig chichamainchau dekapjau.",
+    "reference_spanish": "La tristeza que vio en sus ojos la dejó sin palabras.",
+    "gaia_spanish": "Se entristeció tanto al ver su estado que se quedó sin palabras.",
+    "precision": 0.7495471239089966,
+    "recall": 0.7738542556762695,
+    "f1": 0.7615067362785339
+  },
+  {
+    "sentence_id": 117,
+    "aguaruna": "Jiyajatbaunmakesh, dutikashtatjai tabaunmakesh Diane apajig nii tibaun umiku, nuwaush kashi Aymeric De Chateaux tuwakti tibaunum, wantinkati tusa tibaunum umikbau.",
+    "reference_spanish": "Ni sus incesantes recriminaciones ni sus encantadores intentos de chantaje desarmaron la intransigencia del padre de Diane, quien se aseguró de la presencia de la joven en la velada en honor de Aymeric Dechateaux.",
+    "gaia_spanish": "A pesar de sus objeciones y contradicciones, el padre de Diane obedeció la orden, y así se cumplió el mandato de que su esposa acudiera por la noche a la reunión con Aymeric De Chateaux.",
+    "precision": 0.7475369572639465,
+    "recall": 0.7319188714027405,
+    "f1": 0.7396454811096191
+  },
+  {
+    "sentence_id": 118,
+    "aguaruna": "Bishuk pujumainai 35 mijan.",
+    "reference_spanish": "Los gatos pueden vivir hasta 35 años.",
+    "gaia_spanish": "Bishuk vivirá 35 años.",
+    "precision": 0.7531324625015259,
+    "recall": 0.7435653805732727,
+    "f1": 0.7483183145523071
+  },
+  {
+    "sentence_id": 119,
+    "aguaruna": "Egiptunmak juka aimnawai ajusjai antsag yujag aidaujai.",
+    "reference_spanish": "En Egipto, normalmente se rellenan con arroz y verduras.",
+    "gaia_spanish": "En Egipto se llena con ajos y frutas.",
+    "precision": 0.8930385112762451,
+    "recall": 0.8790708184242249,
+    "f1": 0.8859996199607849
+  },
+  {
+    "sentence_id": 120,
+    "aguaruna": "1) Intashii nuwigtuu daii shiig puju wajawin.",
+    "reference_spanish": "1) Su cabello y la blancura de sus dientes.",
+    "gaia_spanish": "Para vivir bien, el cabello debe dejarse en su lugar.",
+    "precision": 0.7172448635101318,
+    "recall": 0.7295594215393066,
+    "f1": 0.7233497500419617
+  },
+  {
+    "sentence_id": 121,
+    "aguaruna": "COVID-19jai jaamu dekapmamakme, ujutbau, tsuweamu nuwigtuu ashii iyashim najaimamu akuig, wait aneaasam pataimiin anikmagta/kanaktaa.",
+    "reference_spanish": "Si presenta síntomas de COVID-19, como tos, fiebre y dolor de cuerpo, por favor, aíslese de sus seres queridos.",
+    "gaia_spanish": "La enfermedad del COVID-19 se propaga con síntomas como tos, fiebre y dolor general en el cuerpo; ante esto, por favor, cuida y protege a tus seres queridos.",
+    "precision": 0.8155127763748169,
+    "recall": 0.8511678576469421,
+    "f1": 0.832958996295929
+  },
+  {
+    "sentence_id": 122,
+    "aguaruna": "Iinu jintinkagtin aina duka Universidad shiig pegkegnumia ausau ainawai iman asag ajanum takatnak dekainawai.",
+    "reference_spanish": "Nuestros instructores se graduaron de las mejores universidades y son expertos en su campo.",
+    "gaia_spanish": "Nuestros profesores conocen el trabajo en la chacra porque han estudiado en una muy buena universidad.",
+    "precision": 0.7653499841690063,
+    "recall": 0.7813891768455505,
+    "f1": 0.7732864022254944
+  },
+  {
+    "sentence_id": 123,
+    "aguaruna": "2. Nuniakum, dekaata wajuk takastatme nunuu: pipishnum nagkamam muunnum nuniashkumesh muunnum nagkamsa piipichinum inagnamunum interesa nuka.",
+    "reference_spanish": "2. Luego, usar un método de clasificación: de menor a mayor, o de mayor a menor tasa de interés.",
+    "gaia_spanish": "2. Entonces, entiende cómo debes proceder: lo que empieza pequeño se vuelve grande, y de la misma manera, lo que empieza grande se vuelve pequeño al final; ese es el principio del interés.",
+    "precision": 0.6870498657226562,
+    "recall": 0.7520154118537903,
+    "f1": 0.7180662155151367
+  },
+  {
+    "sentence_id": 124,
+    "aguaruna": "Tupiimakmau apigmaushakam pegkegchauwai.",
+    "reference_spanish": "La calidad de las suturas también es muy mala.",
+    "gaia_spanish": "No es bueno golpear al que ya está caído.",
+    "precision": 0.7033311724662781,
+    "recall": 0.7221114039421082,
+    "f1": 0.7125976085662842
+  },
+  {
+    "sentence_id": 125,
+    "aguaruna": "<D:> Juju semanatinig atsuttajai, ijakun wegajai antsanuk wakitkishtatjai wamak, tikish semanatin tattajai.",
+    "reference_spanish": "<D:> No puedo esta semana, estoy de viaje y no volveré hasta la próxima.",
+    "gaia_spanish": "Esta semana no estaré, me voy de visita y no regresaré pronto, sino hasta la próxima semana.",
+    "precision": 0.8531598448753357,
+    "recall": 0.813015878200531,
+    "f1": 0.8326042294502258
+  },
+  {
+    "sentence_id": 126,
+    "aguaruna": "Egaji uchijai takatan dekau jibaituk tsawantai takamu.",
+    "reference_spanish": "Estamos buscando especialistas en cuidado infantil para un trabajo de medio tiempo.",
+    "gaia_spanish": "Egaji y su hijo saben hacer el trabajo completo en un solo día.",
+    "precision": 0.7177833318710327,
+    "recall": 0.7434870600700378,
+    "f1": 0.7304091453552246
+  },
+  {
+    "sentence_id": 127,
+    "aguaruna": "Dakitnujai esattin wetanak aiksanuk yagkujitinshakam,aiksanuk wakenujai dasentin etsa akae autuni.",
+    "reference_spanish": "Por lo general, evito viajar durante las vacaciones de verano o en septiembre y me gusta el final del otoño en el hemisferio sur.",
+    "gaia_spanish": "No me gusta que el verano se vaya, ni que todo se ponga amarillo; pero sí me gusta el viento que sopla al ocultarse el sol.",
+    "precision": 0.6835644841194153,
+    "recall": 0.6997952461242676,
+    "f1": 0.6915846467018127
+  },
+  {
+    "sentence_id": 128,
+    "aguaruna": "<Chichainamu 3:>¡Shiig pegkejai, iwakua anmamtinai!",
+    "reference_spanish": "<comentario 3:> ¡Qué impresionante, parece que estuviera vivo!",
+    "gaia_spanish": "¡Qué bien hecho, parece vivo!",
+    "precision": 0.845215380191803,
+    "recall": 0.6995478272438049,
+    "f1": 0.7655135989189148
+  },
+  {
+    "sentence_id": 129,
+    "aguaruna": "<Guillermo:>Yujumkak yuwau amainaitme?",
+    "reference_spanish": "<Guillermo:> Habéis cenado ya?",
+    "gaia_spanish": "<Guillermo:>¿Vas a comer?",
+    "precision": 0.8802258968353271,
+    "recall": 0.8495796918869019,
+    "f1": 0.8646312952041626
+  },
+  {
+    "sentence_id": 130,
+    "aguaruna": "<B:> Ame atsumamugmek minawai, amasagtatui 5.pm ¿ tikichnas wajina yaimainitjame?",
+    "reference_spanish": "<B:> Su pedido ya está en camino, con entrega prevista para hoy a las 17 horas, ¿puedo ayudarle en algo más?",
+    "gaia_spanish": "Para lo que necesites, él vendrá y te atenderá a las 5 p.m. ¿Hay algo más en lo que te pueda ayudar?",
+    "precision": 0.7202181220054626,
+    "recall": 0.71897953748703,
+    "f1": 0.7195982933044434
+  },
+  {
+    "sentence_id": 131,
+    "aguaruna": "Pachimjata ashii inagkamu makichik tsapa uchuchuji winchanum ¡senchi bikaju nijataik uminkae!",
+    "reference_spanish": "Mezclar todos los ingredientes en un tazón y ponerlos en un recipiente de vidrio pequeño y ¡la exfoliación está lista!",
+    "gaia_spanish": "Mezcla toda la comida preparada en el tazón de calabaza. ¡Está muy espeso, pero si le agregas agua quedará perfecto!",
+    "precision": 0.7383363246917725,
+    "recall": 0.7658959031105042,
+    "f1": 0.7518636584281921
+  },
+  {
+    "sentence_id": 132,
+    "aguaruna": "Atsa ¿waji chichama?",
+    "reference_spanish": "No. ¿Qué rumores?",
+    "gaia_spanish": "No, ¿qué dice?",
+    "precision": 0.8422867655754089,
+    "recall": 0.8288658857345581,
+    "f1": 0.835522472858429
+  },
+  {
+    "sentence_id": 133,
+    "aguaruna": "Anjali, Apauch Shimlakak aakmaka pujustasamek webaitsume tiagme.",
+    "reference_spanish": "Anjali, papá ya dijo que no puedes ir a Shimla a acampar.",
+    "gaia_spanish": "Anjali, dicen que si quieres quedarte a vivir con el padre Shimlakak, no te vayas.",
+    "precision": 0.7918513417243958,
+    "recall": 0.8067137002944946,
+    "f1": 0.7992134094238281
+  },
+  {
+    "sentence_id": 134,
+    "aguaruna": "Diichi tsagkugtugta, midaujujai Shirdi wetatjai.",
+    "reference_spanish": "Lo siento, tío, voy a ir a Shirdi con mi familia.",
+    "gaia_spanish": "Tío, con tu permiso, voy a ir a Shirdi con Midauju.",
+    "precision": 0.8328840136528015,
+    "recall": 0.8427615761756897,
+    "f1": 0.8377937078475952
+  },
+  {
+    "sentence_id": 135,
+    "aguaruna": "Niig pujawai batsatkamu nayantsa nugkaan awa nuwi.",
+    "reference_spanish": "Ella vive en los Países Bajos.",
+    "gaia_spanish": "Él vive en el poblado de la costa.",
+    "precision": 0.7885385751724243,
+    "recall": 0.7852976322174072,
+    "f1": 0.7869147658348083
+  },
+  {
+    "sentence_id": 136,
+    "aguaruna": "Chinak waamak achimainai yupichu takat muun ujani wega nuna ashí nugkanum nuniak egamainai wajuk takaku wiyakush wemainaita nuna .",
+    "reference_spanish": "China debe aprovechar rápidamente las oportunidades de globalización y buscar mercados emergentes.",
+    "gaia_spanish": "Una gran oportunidad laboral, fácil y en expansión por todo el mundo, permite conseguir el sustento rápidamente, y a su vez, descubrir la forma en que, con trabajo, hasta los más adinerados pueden progresar.",
+    "precision": 0.6683896780014038,
+    "recall": 0.7296834588050842,
+    "f1": 0.6976929306983948
+  },
+  {
+    "sentence_id": 137,
+    "aguaruna": "Yamaikik wantiinkag nuweenawag matsatui.",
+    "reference_spanish": "Todavía están legalmente casados.",
+    "gaia_spanish": "Ahora se casan públicamente.",
+    "precision": 0.8069198131561279,
+    "recall": 0.8147095441818237,
+    "f1": 0.8107959628105164
+  },
+  {
+    "sentence_id": 138,
+    "aguaruna": "Tikish aina nuwig, dekaskek, imanchau ainawai.",
+    "reference_spanish": "El resto, en general, no es tan importante.",
+    "gaia_spanish": "Los otros son gente del lugar, auténticos y de poca importancia.",
+    "precision": 0.7291595339775085,
+    "recall": 0.7351787090301514,
+    "f1": 0.7321566939353943
+  },
+  {
+    "sentence_id": 139,
+    "aguaruna": "<Jintinkagtin:>Tuyash ujanikta chichaman umianujau waimainai.",
+    "reference_spanish": "<Profesor:> Sí, solo haz una cita con el coordinador.",
+    "gaia_spanish": "El profesor: Tuyas manda que quienes obedezcan la palabra, serán recompensados.",
+    "precision": 0.6665003895759583,
+    "recall": 0.6950595378875732,
+    "f1": 0.6804804801940918
+  },
+  {
+    "sentence_id": 140,
+    "aguaruna": "Egaaji nuwakesh aigmagkesh jikatus wajii diin jutii takaamujin ijunkati tusa.",
+    "reference_spanish": "Estamos buscando a un/a analista de datos para unirse a nuestro equipo.",
+    "gaia_spanish": "Tanto hombres como mujeres, al ver un objetivo que anhelamos en común, nos reunimos para unificar nuestro trabajo.",
+    "precision": 0.6808934211730957,
+    "recall": 0.6993817090988159,
+    "f1": 0.6900137066841125
+  },
+  {
+    "sentence_id": 141,
+    "aguaruna": "Jiamg tsawanchik jugawai Saraswati Puja ememattak.",
+    "reference_spanish": "Solo quedan dos días para el Sarasvati Puja.",
+    "gaia_spanish": "Hoy se celebra la Puja de Saraswati.",
+    "precision": 0.7860356569290161,
+    "recall": 0.7723031044006348,
+    "f1": 0.7791088223457336
+  },
+  {
+    "sentence_id": 142,
+    "aguaruna": "<A:>Amekaitam, mina wajijuk eke taatsui.",
+    "reference_spanish": "<A:> Hola, mi paquete todavía no ha llegado.",
+    "gaia_spanish": "¿Eres tú?, mi pariente todavía no llega.",
+    "precision": 0.7957035303115845,
+    "recall": 0.7646875381469727,
+    "f1": 0.779887318611145
+  },
+  {
+    "sentence_id": 143,
+    "aguaruna": "Tsawannak megkaekashjai mabiksa anentaibau awa nuna, yaijatkamunum nuniaku maak batsatbau diyaakug abau: ame tita wajuti akikmamush idaimainaita waji ukuamua nunuish nuniaku maak juwaktasa.",
+    "reference_spanish": "Aproveche la oportunidad que esto le brinda para meditar, expresar gratitud y mantener el control de la situación: usted decide cuándo es el mejor momento para dejar de mirar la grava del estacionamiento y levantarse.",
+    "gaia_spanish": "Me angustia la idea de que un día lo perderé todo, y si la inundación aparece como una salida, tú me preguntarás: '¿Desde cuándo está bien abandonar las deudas y lo que te encargaron solo para salvarte?'",
+    "precision": 0.671486496925354,
+    "recall": 0.6789712309837341,
+    "f1": 0.6752081513404846
+  },
+  {
+    "sentence_id": 144,
+    "aguaruna": "<Jiju shina nuna takau:> Tsawaajugmek, Mango untsukuujum duwi see tajime, mina daajuk Martayai, ¿wajinma yaimainaitjime?",
+    "reference_spanish": "<operador:> Buenos días, gracias por llamar a Mango, mi nombre es Marta, en qué puedo ayudarle?",
+    "gaia_spanish": "Buenos días, Mango. Gracias por llamarme. Mi nombre es Marta, ¿en qué puedo ayudarles?",
+    "precision": 0.8803694248199463,
+    "recall": 0.8401535749435425,
+    "f1": 0.8597915172576904
+  },
+  {
+    "sentence_id": 145,
+    "aguaruna": "Makichik tsawantai, kujanchak tau makichik tesoron uukmaun ikamian egaak.",
+    "reference_spanish": "Un día, un zorro astuto llegó al bosque buscando un tesoro legendario escondido dentro de sus profundidades.",
+    "gaia_spanish": "Un día, un armadillo cavaba en la selva buscando un tesoro escondido.",
+    "precision": 0.8849775791168213,
+    "recall": 0.8549710512161255,
+    "f1": 0.8697155117988586
+  },
+  {
+    "sentence_id": 146,
+    "aguaruna": "Mina kumpag aidau buñuelo de patatan shiig inagkachai tusa umiinashkug, duwis aaninatai.",
+    "reference_spanish": "Si mis amigos blogueros no pueden hacer buñuelos de patatas a prueba de fallos, tal vez sea por esto.",
+    "gaia_spanish": "Mis amigos se encargaron de preparar el buñuelo de patata para que quede delicioso, así que el resultado será el mismo de siempre.",
+    "precision": 0.7396490573883057,
+    "recall": 0.7609725594520569,
+    "f1": 0.7501593232154846
+  },
+  {
+    "sentence_id": 147,
+    "aguaruna": "Li anentaimtamuk atak ijunja takastin papi jitai ijunja najanami taji 3D ijuntuja iina pujutjiya nunu umiktin 3D.",
+    "reference_spanish": "Nuestro objetivo a largo plazo es promover la cooperación y el desarrollo de la comunidad de impresión 3D, para construir juntos el futuro de la impresión 3D.",
+    "gaia_spanish": "Unamos nuestros pensamientos una vez más para trabajar juntos en la construcción de la impresora 3D, uniendo así nuestra forma de vida para llevar a cabo este proyecto 3D.",
+    "precision": 0.7503710389137268,
+    "recall": 0.7715169787406921,
+    "f1": 0.7607970833778381
+  },
+  {
+    "sentence_id": 148,
+    "aguaruna": "Kanutaik ajawai 5 yutaik, tuja 1 ame wayam, ame wajegamu yumain.",
+    "reference_spanish": "El hotel tiene 5 restaurantes, de los cuales 1 es un bufé abierto.",
+    "gaia_spanish": "Hay cinco raciones de comida en la canoa, y una para ti al ingresar, que es la que te toca comer.",
+    "precision": 0.6737558245658875,
+    "recall": 0.7125694751739502,
+    "f1": 0.692619264125824
+  },
+  {
+    "sentence_id": 149,
+    "aguaruna": "Jinkiuk jukittame 24 horas nagkaematsaig.",
+    "reference_spanish": "Y los resultados los recibirá en menos de 24 horas.",
+    "gaia_spanish": "Debes recogerlo antes de que se cumplan 24 horas desde tu salida.",
+    "precision": 0.692766010761261,
+    "recall": 0.7406713366508484,
+    "f1": 0.7159181833267212
+  },
+  {
+    "sentence_id": 150,
+    "aguaruna": "Yujumak yutaig yutaijig shiig penkeg ainawai.",
+    "reference_spanish": "La comida en todos los restaurantes estaba deliciosa.",
+    "gaia_spanish": "La comida del comedor está muy buena.",
+    "precision": 0.8461413383483887,
+    "recall": 0.8272296190261841,
+    "f1": 0.8365786671638489
+  },
+  {
+    "sentence_id": 151,
+    "aguaruna": "Utugka inagmainita kuchi pagaesh chujushjuntu yumimittakush:",
+    "reference_spanish": "Como preparar costillas de cerdo agridulces:",
+    "gaia_spanish": "Cómo se prepara el chancho para que quede dulce:",
+    "precision": 0.6955286860466003,
+    "recall": 0.7017297744750977,
+    "f1": 0.6986154317855835
+  },
+  {
+    "sentence_id": 152,
+    "aguaruna": "<A:> Atsa, tuja chichastasan wakegajai.",
+    "reference_spanish": "<A:> No, pero creo que necesito hablar con alguien.",
+    "gaia_spanish": "No, sino que quiero hablar.",
+    "precision": 0.8730922341346741,
+    "recall": 0.7709846496582031,
+    "f1": 0.8188676834106445
+  },
+  {
+    "sentence_id": 153,
+    "aguaruna": "Kugkuim wekaetai jimag kagketaiji ajamu anunkumek tukee atsejutai atsejukta nuniakum akachu akachumata ipaksumak kagketaiji ajamu anunkumek.",
+    "reference_spanish": "Es obligatorio usar casco cuando se conduce un vehículo de dos ruedas y usar cinturón de seguridad cuando se conduce un vehículo de cuatro ruedas.",
+    "gaia_spanish": "El vocho es de tracción trasera, siempre con su techo y su franja decorativa, y bien plantado sobre sus cuatro llantas.",
+    "precision": 0.6695653796195984,
+    "recall": 0.6693005561828613,
+    "f1": 0.6694328784942627
+  },
+  {
+    "sentence_id": 154,
+    "aguaruna": "Nunu pujutnum, nugkanmak tutitag wajas amayi. Apu aidau manituinak dita chichamin, nunu kuashat maniamu ajasuwai ashii.",
+    "reference_spanish": "Esa época, el mundo estaba en caos. Los líderes empezaron a luchar por sus regímenes, lo cual causó guerras en todas partes.",
+    "gaia_spanish": "En aquel lugar, en el territorio hubo un problema. Cuando los jefes se reunieron para deliberar, su discusión convirtió aquello en un conflicto mucho más grande.",
+    "precision": 0.7371814250946045,
+    "recall": 0.7459390163421631,
+    "f1": 0.7415343523025513
+  },
+  {
+    "sentence_id": 155,
+    "aguaruna": "Tswantak etsantuk ame, tuja semnashme julio yaunchuk tuke ammaya nuanig, Londresak tuke ikiyamjauwa anin auwe, duwi pegkeg tsawan ajuntsame, tsawan pegkejush asamtai. ",
+    "reference_spanish": "El clima estaba soleado y no hacía calor para ser un día de julio. Sé que en Londres suele estar muy nublado, así que tuve suerte ese día, ya que el clima estaba hermoso. ",
+    "gaia_spanish": "Disfrutas de un día soleado, pero olvidas que desde julio nuestras mujeres de allá están en Londres, donde siempre es como si estuviera atardeciendo. Por eso tú la pasas bien, porque el día es bueno.",
+    "precision": 0.7123610973358154,
+    "recall": 0.7387136816978455,
+    "f1": 0.7252980470657349
+  },
+  {
+    "sentence_id": 156,
+    "aguaruna": "Yaakta jintajig tutitjachu nuwigtuu bitat batsatbauwa nunin wantiinui.",
+    "reference_spanish": "Las calles parecían tranquilas y silenciosas.",
+    "gaia_spanish": "En la calle del pueblo, continuamente aparecen en silencio, como si fueran los mismos habitantes.",
+    "precision": 0.7053833603858948,
+    "recall": 0.7104877829551697,
+    "f1": 0.7079263925552368
+  },
+  {
+    "sentence_id": 157,
+    "aguaruna": "Shiig aneasa pujamu tikishnau dekaatatakujik dekatkau dekamainaitji iish wajuk pujaji dekatkauk nunuu.",
+    "reference_spanish": "Para aprender a gestionar las emociones es fundamental saber reconocerlas primero.",
+    "gaia_spanish": "No se puede conocer al verdadero sabio solo por observar la vida tranquila de los demás; el sabio es quien entiende nuestra propia forma de vivir.",
+    "precision": 0.6629059910774231,
+    "recall": 0.6859304904937744,
+    "f1": 0.6742217540740967
+  },
+  {
+    "sentence_id": 158,
+    "aguaruna": "<Aents aminiig 2:>Wakejukmajai ❤️",
+    "reference_spanish": "<2:>Me encanta ❤️",
+    "gaia_spanish": "Te amo ❤️",
+    "precision": 0.7936868071556091,
+    "recall": 0.6586061120033264,
+    "f1": 0.7198643684387207
+  },
+  {
+    "sentence_id": 159,
+    "aguaruna": "<B:> ¿Jasmek?",
+    "reference_spanish": "<B:> ¿Estás enfermo?",
+    "gaia_spanish": "¿Es así?",
+    "precision": 0.8317437171936035,
+    "recall": 0.7280789017677307,
+    "f1": 0.7764665484428406
+  },
+  {
+    "sentence_id": 160,
+    "aguaruna": "Finanzasesp: Nuka dutikmaina, leynum awa nunuka imachikish 2%",
+    "reference_spanish": "finanzasesp: Sí se puede, lo mínimo por ley es el 2%",
+    "gaia_spanish": "Esto es aplicable, ya que según la ley corresponde como mínimo un 2%.",
+    "precision": 0.7560812830924988,
+    "recall": 0.7104779481887817,
+    "f1": 0.7325705885887146
+  },
+  {
+    "sentence_id": 161,
+    "aguaruna": "Dekatkau jujuu nagkamtsukek, betek tsentsakta plomaadajai nuniashkumesh nivel laserjai.",
+    "reference_spanish": "Antes de comenzar, marque la primera línea utilizando una plomada o un nivel láser.",
+    "gaia_spanish": "Primero, traza la línea de forma continua y nivelada, bien sea con la plomada o con el nivel láser.",
+    "precision": 0.7752193212509155,
+    "recall": 0.8027050495147705,
+    "f1": 0.788722813129425
+  },
+  {
+    "sentence_id": 162,
+    "aguaruna": "<A:>Dekaskeskaita, dutikmaintsukaitai ashi piezas de repuestos takakkujik.",
+    "reference_spanish": "<A:> Bueno, creo que sí, tal vez podría si tuviera todas las piezas de repuesto.",
+    "gaia_spanish": "Averigua bien sobre todas las piezas de repuesto para la reparación, no vaya a ser que resulte imposible.",
+    "precision": 0.7265983819961548,
+    "recall": 0.7142903804779053,
+    "f1": 0.7203918695449829
+  },
+  {
+    "sentence_id": 163,
+    "aguaruna": "<A:> Anentain ejeechajai bachishchish chichagkagtuktajum tujamchaja nuna.",
+    "reference_spanish": "<A:> Es sorprendente que nadie nos pida consejo, somos las más inteligentes de hecho.",
+    "gaia_spanish": "Pienso que no deberían hablar tonterías sobre eso.",
+    "precision": 0.7100763916969299,
+    "recall": 0.671966552734375,
+    "f1": 0.690496027469635
+  },
+  {
+    "sentence_id": 164,
+    "aguaruna": "<A:> ¿Anuntaigmish wajukea?",
+    "reference_spanish": "<A:> ¿Qué le pasó a tu carro?",
+    "gaia_spanish": "¿Y tú qué opinas?",
+    "precision": 0.7367233037948608,
+    "recall": 0.6813494563102722,
+    "f1": 0.7079552412033081
+  },
+  {
+    "sentence_id": 165,
+    "aguaruna": "¿Ijagsamugmea nuwish tuawaita?",
+    "reference_spanish": "¿Cuáles son los que ya ha visitado?",
+    "gaia_spanish": "¿Me estás bromeando?",
+    "precision": 0.7622244358062744,
+    "recall": 0.7344992160797119,
+    "f1": 0.7481050491333008
+  },
+  {
+    "sentence_id": 166,
+    "aguaruna": "¿Ijiamun yaa kajimatkish ukuawaa?",
+    "reference_spanish": "¿Es el bolso algo que alguien olvida?",
+    "gaia_spanish": "¿Quién se olvidó del visitante y lo dejó?",
+    "precision": 0.7663254141807556,
+    "recall": 0.7627441883087158,
+    "f1": 0.764530599117279
+  },
+  {
+    "sentence_id": 167,
+    "aguaruna": "See, ampijatnu.",
+    "reference_spanish": "Gracias, Doctora.",
+    "gaia_spanish": "Mira, el médico.",
+    "precision": 0.7844435572624207,
+    "recall": 0.7860464453697205,
+    "f1": 0.7852442264556885
+  },
+  {
+    "sentence_id": 168,
+    "aguaruna": "Shiig yujutsata anentaiju.",
+    "reference_spanish": "Buen provecho, mi amor.",
+    "gaia_spanish": "Que mi alma se nutra bien.",
+    "precision": 0.7293498516082764,
+    "recall": 0.7283966541290283,
+    "f1": 0.7288729548454285
+  },
+  {
+    "sentence_id": 169,
+    "aguaruna": "¡Wainkatasan shiig sinchi wakeejajame! ❤️",
+    "reference_spanish": "¡Qué ganas de verte! ❤️",
+    "gaia_spanish": "¡Tengo muchísimas ganas de verte! ❤️",
+    "precision": 0.8679794073104858,
+    "recall": 0.9224417805671692,
+    "f1": 0.8943822383880615
+  },
+  {
+    "sentence_id": 170,
+    "aguaruna": "Tikish batsatkamu aina nuwig papiigtuchu anuntuinawai.",
+    "reference_spanish": "En algunos lugares, se ha visto que la gente conduce sin licencia.",
+    "gaia_spanish": "La gente de otras comunidades está allí indocumentada.",
+    "precision": 0.7755031585693359,
+    "recall": 0.7706997990608215,
+    "f1": 0.7730940580368042
+  },
+  {
+    "sentence_id": 171,
+    "aguaruna": "Etsa 12 wegai, tujash nunuu etsa 11 wegai jikittajame.",
+    "reference_spanish": "A las 12, pero te recojo a las 11.",
+    "gaia_spanish": "Son las doce, pero te saqué a las once.",
+    "precision": 0.8490422964096069,
+    "recall": 0.8445668816566467,
+    "f1": 0.8467986583709717
+  },
+  {
+    "sentence_id": 172,
+    "aguaruna": "Aniu asamtai, nuwitam nunin asam, wainjai ipaajataina nuna fuerza aereanun ijunkati tusa, kashi ekemaka wekaetai aina nunash, inakmasa wekaetainash, unuimagtinush nuwigtuu iyash kuitaamku takatai ainaush.",
+    "reference_spanish": "Así que, como mujer de mediana edad, veo invitaciones para unirme a la fuerza aérea, ofertas para comprar una linterna táctica o una pala tan frecuentemente como tarjetas de tarot, cursos de desarrollo personal y cosméticos.",
+    "gaia_spanish": "Por esta razón, y al ser un momento receptivo, para concentrar la energía de aquello que veo brillar, se convoca a los caminantes nocturnos, a los viajeros, a los estudiantes y también a los trabajadores que cuidan de su cuerpo.",
+    "precision": 0.6818816661834717,
+    "recall": 0.6842902302742004,
+    "f1": 0.6830838322639465
+  },
+  {
+    "sentence_id": 173,
+    "aguaruna": "Eme anentsa ipajime juti nuwenbaunum pujusti nuniak ichishkagtugti pujutan pachis tusa.",
+    "reference_spanish": "Te invitamos cordialmente a nuestra boda para presenciar y bendecir nuestra unión.",
+    "gaia_spanish": "Acompáñennos de corazón en nuestra boda para así bendecir nuestra vida juntos.",
+    "precision": 0.7970443367958069,
+    "recall": 0.7962432503700256,
+    "f1": 0.7966436147689819
+  },
+  {
+    "sentence_id": 174,
+    "aguaruna": "Tujash, pepinon ajakaaju.",
+    "reference_spanish": "Entonces, plantaron los pepinos.",
+    "gaia_spanish": "Pero, cosecharon pepino.",
+    "precision": 0.7947497963905334,
+    "recall": 0.7864352464675903,
+    "f1": 0.7905706167221069
+  },
+  {
+    "sentence_id": 175,
+    "aguaruna": "3. Dekatkauk muunnum nagkamsam diwijum akikmakta nuniakum piipich tikish diki aina nuka.",
+    "reference_spanish": "3. Comience a pagar la mayor cantidad de la primera deuda mientras paga los mínimos de las otras.",
+    "gaia_spanish": "Primero, paga la deuda comenzando por la más grande, y luego las otras que son pequeñas.",
+    "precision": 0.732801079750061,
+    "recall": 0.7630319595336914,
+    "f1": 0.7476110458374023
+  },
+  {
+    "sentence_id": 176,
+    "aguaruna": "See aigkaum duwi",
+    "reference_spanish": "Gracias por contestar",
+    "gaia_spanish": "Gracias por lo que hiciste.",
+    "precision": 0.7148897051811218,
+    "recall": 0.753038763999939,
+    "f1": 0.7334685921669006
+  },
+  {
+    "sentence_id": 177,
+    "aguaruna": "Nagkamami makichik jiju esagma nuja nuniaku dekapsa kininji aputusa wemi 85% iina kijinjiya nunua betekmattaku",
+    "reference_spanish": "Empezaremos con solamente una barra e iremos agregando peso gradualmente hasta que lleguemos a un 85% de nuestro peso máximo",
+    "gaia_spanish": "Inicialmente, con un componente metálico base, y por consiguiente, al añadir la prueba de nuestra calidad, se alcanza el 85% de nuestro peso de referencia para que sea equivalente.",
+    "precision": 0.6951875686645508,
+    "recall": 0.7141198515892029,
+    "f1": 0.7045264840126038
+  },
+  {
+    "sentence_id": 178,
+    "aguaruna": "Eme anentsa festival Lancha Dragónka jujuka Makichik Chinanmak yaunchuk nagkamsa jistamjutaiyai. Jujuka tsawan uweja makichik amum wegai uweja Makichik amum nantush wegai jata nuwigtuu maakchau pujamu inaimau.",
+    "reference_spanish": "El Festival de la Lancha Dragón de la China es muy tradicional y se celebra cada año en el quinto día del quinto mes lunar. Es un festival para despedir al dios de la plaga y ahuyentar la peste.",
+    "gaia_spanish": "El Festival del Bote del Dragón es una celebración tradicional que se originó en la antigua China. Se celebra el quinto día del quinto mes lunar para prevenir enfermedades y alejar los malos espíritus.",
+    "precision": 0.8547816872596741,
+    "recall": 0.8496266603469849,
+    "f1": 0.8521963357925415
+  },
+  {
+    "sentence_id": 179,
+    "aguaruna": "¡Niimeg shiig pegkegchiuchi!",
+    "reference_spanish": "¡Su color es muy bonito!",
+    "gaia_spanish": "¡Qué cara más linda!",
+    "precision": 0.8150503635406494,
+    "recall": 0.8060702085494995,
+    "f1": 0.8105354309082031
+  },
+  {
+    "sentence_id": 180,
+    "aguaruna": "<B:> ¿Tuuwa?",
+    "reference_spanish": "<B:> ¿Cuál?",
+    "gaia_spanish": "¿Cuál?",
+    "precision": 0.9297587871551514,
+    "recall": 0.7871431112289429,
+    "f1": 0.8525277376174927
+  },
+  {
+    "sentence_id": 181,
+    "aguaruna": "Dekas Apu Emperador Bahadur Shah Zafar Mughal keekui, bátsatkamu yaaktak aya yujagmim wajasui. Nunikaitkush initak dekas Apu pujutaig tutit wajakchauwai.",
+    "reference_spanish": "Cuando el palacio del emperador Bahadur Shah Zafar de Mogol se incendió, la ciudad se vio completamente envuelta en humo. Aún así, el interior del palacio permaneció en completo silencio.",
+    "gaia_spanish": "El verdadero líder, el Emperador Bahadur Shah Zafar Mughal, se quedó gobernando únicamente sobre su pueblo y su ciudad. Sin embargo, en realidad su trono no era estable.",
+    "precision": 0.763859748840332,
+    "recall": 0.749461829662323,
+    "f1": 0.7565922737121582
+  },
+  {
+    "sentence_id": 182,
+    "aguaruna": "Mahshi inagbauk kuashat yapajinnawai tikish nugkanum inagbaunum apátka diyam.",
+    "reference_spanish": "Las recetas de mahshi \"dolma\" varían mucho de un país a otro.",
+    "gaia_spanish": "El condenado Mashi cambia mucho al verse acompañado en su destierro en tierra ajena.",
+    "precision": 0.6725940108299255,
+    "recall": 0.6510137915611267,
+    "f1": 0.6616279482841492
+  },
+  {
+    "sentence_id": 183,
+    "aguaruna": "Lucia ekeme papi umitaijin takatjin shiig umiktatus, nuniakun dekapmajai iyash tutitja anmamatin.",
+    "reference_spanish": "Lucía está sentada en su escritorio concentrándose en sus deberes, cuando una sentimiento la distrae.",
+    "gaia_spanish": "Lucía preparó el documento sobre su modo de vida y su trabajo para cumplirlo bien, y por eso sentí un gran malestar en el cuerpo y en el alma.",
+    "precision": 0.7080239057540894,
+    "recall": 0.709698498249054,
+    "f1": 0.7088601589202881
+  },
+  {
+    "sentence_id": 184,
+    "aguaruna": "Mai anentaimsaju uchi takustasajag ajakmata nuna ajakmatan.",
+    "reference_spanish": "Ambos soñaron con que debían plantar pepinos si querían tener hijos.",
+    "gaia_spanish": "Planifiquemos todos que el niño trabaje en el cultivo, en ese sembrío.",
+    "precision": 0.6738331317901611,
+    "recall": 0.6882051825523376,
+    "f1": 0.6809433102607727
+  },
+  {
+    "sentence_id": 185,
+    "aguaruna": "See kuashat, ampijatnu.",
+    "reference_spanish": "Muchas gracias, Doctora.",
+    "gaia_spanish": "Muchas gracias, doctor.",
+    "precision": 0.9499768018722534,
+    "recall": 0.9287745952606201,
+    "f1": 0.9392560720443726
+  },
+  {
+    "sentence_id": 186,
+    "aguaruna": "Ipak usumta imania segam pujajai tujash dewagtukchaje.",
+    "reference_spanish": "Llevo más de cuatro años haciendo pedidos y nunca me han decepcionado.",
+    "gaia_spanish": "Ya lo he pedido cuatro veces, pero no me equivoco.",
+    "precision": 0.7645725011825562,
+    "recall": 0.7388445138931274,
+    "f1": 0.7514883875846863
+  },
+  {
+    "sentence_id": 187,
+    "aguaruna": "Yabai tsawanta juwik, kugkuim kagkekamtai yujatai aina nuig umiibauk kawegke, dekaskek yaakat piipitush aina nuwi.",
+    "reference_spanish": "Hoy en día, los accidentes de tráfico han aumentado mucho, especialmente en las ciudades pequeñas.",
+    "gaia_spanish": "Hoy en día, en el camino del motelo es donde el trabajo rinde frutos, especialmente en las comunidades más pequeñas.",
+    "precision": 0.8040033578872681,
+    "recall": 0.8311329483985901,
+    "f1": 0.8173430562019348
+  },
+  {
+    "sentence_id": 188,
+    "aguaruna": "Yantamchigmin patasa yujumak yutai agkan pujume, apajuin segajai minau achati tusan, waagki tamak wika awig pujusnuk shiig anentaimsa pujumaichamjai.",
+    "reference_spanish": "A su lado había una mesa vacía y recé que no fuera para mí, porque ahí no me iba a poder concentrar ni un minuto.",
+    "gaia_spanish": "En Yantamchig la mesa estaba servida, y yo le rogaba a mi padre que nadie se llevara lo mío; por eso, aunque estuviera allí mismo, no podía estar tranquilo.",
+    "precision": 0.6877388954162598,
+    "recall": 0.7077373266220093,
+    "f1": 0.6975948214530945
+  },
+  {
+    "sentence_id": 189,
+    "aguaruna": "Kumpajum ijunja takataigmejai pachis. Tikichin pakijiima takaku deyaajai.",
+    "reference_spanish": "Es sobre tu compañero de trabajo. Parece que tiene una nueva novia.",
+    "gaia_spanish": "Con tu amigo trabajo en conjunto, pero al otro lo excluyo.",
+    "precision": 0.6999619007110596,
+    "recall": 0.7123952507972717,
+    "f1": 0.7061238884925842
+  },
+  {
+    "sentence_id": 190,
+    "aguaruna": "¿Wajupa etsash wegai igkuuniktatji?",
+    "reference_spanish": "¿A qué hora nos vemos?",
+    "gaia_spanish": "¿A qué hora nos encontramos?",
+    "precision": 0.9769454598426819,
+    "recall": 0.9769454598426819,
+    "f1": 0.9769454598426819
+  },
+  {
+    "sentence_id": 191,
+    "aguaruna": "Tuja, anentai awa duka ikam muun tepajanunui senchi tajimat wemain awai, nuna chinak takat yamagman apujus jiki takat yapagmainai pujutan así nugkanum.",
+    "reference_spanish": "Por ejemplo, en el ámbito de la energía verde, China debería ayudar a los países emergentes a construir sistemas energéticos sostenibles, promover la transformación energética y el desarrollo sostenible.",
+    "gaia_spanish": "Pues la idea que hay en la selva es que se puede lograr mucha prosperidad; por eso, al empezar un nuevo trabajo, ese mismo trabajo puede cambiar la vida en la tierra.",
+    "precision": 0.7078820466995239,
+    "recall": 0.7157148122787476,
+    "f1": 0.7117769122123718
+  },
+  {
+    "sentence_id": 192,
+    "aguaruna": "Wainkaush iniimsa dekaatatakumek, jutiijai jujuu achinitaiya nuwi achimkata.",
+    "reference_spanish": "Para una consulta gratuita preliminar, contáctenos por medio de este enlace.",
+    "gaia_spanish": "Si descubres su punto débil, únete a nosotros para agarrarlo por ahí.",
+    "precision": 0.6536662578582764,
+    "recall": 0.6299131512641907,
+    "f1": 0.641569972038269
+  },
+  {
+    "sentence_id": 193,
+    "aguaruna": "Yabaikish egainawai.",
+    "reference_spanish": "La persecución continuó.",
+    "gaia_spanish": "Hasta ahora lo ponen.",
+    "precision": 0.6929763555526733,
+    "recall": 0.7186450362205505,
+    "f1": 0.7055773735046387
+  },
+  {
+    "sentence_id": 194,
+    "aguaruna": "<B:> Wika dekajai, wika dekaskeapita tatsuja.",
+    "reference_spanish": "<B:> Yo sé, no estoy segura de por qué.",
+    "gaia_spanish": "Yo lo sé, pero no afirmo que sea cierto.",
+    "precision": 0.7422540187835693,
+    "recall": 0.7124843001365662,
+    "f1": 0.7270645499229431
+  },
+  {
+    "sentence_id": 195,
+    "aguaruna": "Tsawan agkuamunum wemajai makichik yujumak yutai waintainum, nunui atash yuata tujutiaju asamtai.",
+    "reference_spanish": "Al terminar el día, fui a cenar a un reconocido restaurante de pollo que me habían recomendado. La comida estuvo decente, no fue la mejor, pero aceptable. Aunque el precio me pareció algo elevado.",
+    "gaia_spanish": "Una tarde fui a comer a un puesto de yuca, ya que allí era imposible conseguir pollo.",
+    "precision": 0.7689676284790039,
+    "recall": 0.6948177814483643,
+    "f1": 0.7300146818161011
+  },
+  {
+    "sentence_id": 196,
+    "aguaruna": "Fútbolmun umintsatasamek shiig iyashim umushjam nimpaagta:",
+    "reference_spanish": "Debe de calentar bien antes de un entrenamiento de fútbol:",
+    "gaia_spanish": "Si te vas a preparar para jugar fútbol: esfuérzate al máximo y juega con todo.",
+    "precision": 0.6694319248199463,
+    "recall": 0.6978558301925659,
+    "f1": 0.6833484172821045
+  },
+  {
+    "sentence_id": 197,
+    "aguaruna": "Chicham umigbauwai tuke tsawantai papii augku wegakuik nugkutaig betek nugkuja wetaiyai.",
+    "reference_spanish": "Es obligatorio llevar uniforme completo todos los días en la escuela.",
+    "gaia_spanish": "La regla es ir a la escuela todos los días con el mismo uniforme.",
+    "precision": 0.8247674703598022,
+    "recall": 0.8267139792442322,
+    "f1": 0.8257396221160889
+  },
+  {
+    "sentence_id": 198,
+    "aguaruna": "Nigka dekakeapi tachau shintajash puja atsa kanakuash tepa.",
+    "reference_spanish": "Él no estaba seguro si estaba despierto o soñando.",
+    "gaia_spanish": "Él no sabe si está despierto o dormido.",
+    "precision": 0.9235678911209106,
+    "recall": 0.9034440517425537,
+    "f1": 0.91339510679245
+  },
+  {
+    "sentence_id": 199,
+    "aguaruna": "Wishakam ujajame dekas apusata niimatai munta nunu nenata yaki ekemtai awa nunui kanutaish tsaptin ati.",
+    "reference_spanish": "Yo también te sugiero colgar un espejo grande arriba del sofá para que el cuarto se vea con más luz.",
+    "gaia_spanish": "Yo también te digo que cuelgues de verdad ese espejo grande en el asiento alto que está allí, para que el dormitorio también esté luminoso.",
+    "precision": 0.7836689352989197,
+    "recall": 0.8125377893447876,
+    "f1": 0.7978423833847046
+  },
+  {
+    "sentence_id": 200,
+    "aguaruna": "<Aents aminiig 4:>Iwainmamin aidauk eke imatika wainchataiyai ayi, tuja yamaik wantinjaje.",
+    "reference_spanish": "<4:>Algunos de los actores no eran muy conocidos en ese momento, pero ahora lo son.",
+    "gaia_spanish": "Estas cosas antes no se veían así, pero ahora ya aparecieron.",
+    "precision": 0.7932379841804504,
+    "recall": 0.7443378567695618,
+    "f1": 0.7680103182792664
+  }
+]
